@@ -1,0 +1,2585 @@
+[
+  {
+    "Question": "Concatenation or the joining of two cables in a long outside plant run is almost always done by ______.",
+    "option1": "Mechanical splicing",
+    "option2": "Fusion splicing",
+    "option3": "Field installation of connectors",
+    "option4": "Splicing on pigtailled connectors",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Loss of a fiber or any fiber in a cable is measured in ______.",
+    "option1": "dB",
+    "option2": "dBm",
+    "option3": "milliwatts",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Singlemode fiber has a ______ light-carrying core than multimode fiber.",
+    "option1": "Smaller",
+    "option2": "Larger",
+    "option3": "Same size",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "OTDR testing will usually give loss measurements that are nearly the same as insertion loss with a light source and power meter.",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "10 dB corresponds to a factor of _____ in power.",
+    "option1": 2,
+    "option2": 10,
+    "option3": 20,
+    "option4": 100,
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "A fiber optic link may have high bit-error rate if ____________.",
+    "option1": "Receiver power is too high",
+    "option2": "Receiver power is too low",
+    "option3": "Receiver power is either too high or too low",
+    "option4": "",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "A fiber stripper removes the _________ of the fiber.",
+    "option1": "Core",
+    "option2": "Cladding",
+    "option3": "Buffer coating",
+    "option4": "",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "A loss budget is the calculated loss of the cable plant while a power budget is the optical loss tolerable to a communications system.",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "ALL outdoor cables are specifically designed to:",
+    "option1": "Include large numbers of fibers",
+    "option2": "Be direct buried for ease of installation",
+    "option3": "Prevent rodent damage to the cable",
+    "option4": "Prevent moisture damage to the fiber",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Ảnh hưởng của mưa là gì",
+    "option1": "Giảm mức thu",
+    "option2": "Tăng chất lượng tuyến",
+    "option3": "Lệch tần số hoạt động",
+    "option4": "Tăng mức thu",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Anten nào có độ lợi (Gain) lớn nhất ở cùng dải tần",
+    "option1": "1.8m",
+    "option2": "1.2m",
+    "option3": "0.6m",
+    "option4": "0.9m",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Anten nào dùng cho khoảng cách tuyến xa nhất?",
+    "option1": "1.8m",
+    "option2": "1.2m",
+    "option3": "0.6m",
+    "option4": "0.9m",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Anten VSAT tại trạm Remote đang sử dụng tại Viettel là loại anten nào?",
+    "option1": "Offset",
+    "option2": "Cassegrain",
+    "option3": "Array",
+    "option4": "Periodic Dipole",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Anten VSAT tại trạm VSAT Remote của Viettel đang sử dụng có đường kính bao nhiêu?",
+    "option1": "2,4m",
+    "option2": "4,8m",
+    "option3": "3,6m",
+    "option4": "6,3m",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Any cable that contains metallic conductors must be properly grounded and bonded.",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Armored cable is used in outside plant installations to ________.",
+    "option1": "Prevent rodent damage",
+    "option2": "Protect from dig-up damage",
+    "option3": "Increase pulling tension",
+    "option4": "Conduct lightning strikes",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Besides causing attenuation, dirt particles can cause scratches on the polished fiber ends",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Black polyethylene jackets are used on outdoor cables for _________.",
+    "option1": "Abrasion resistance",
+    "option2": "High tensile load",
+    "option3": "Sunlight and moisture resistance",
+    "option4": "Appearance",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Bộ chuyển mạch chọn lọc bước sóng (WSS) cho phép người trị điều hướng 1 bước sóng hoặc dải bước sóng đến bất kỳ đầu ra nào trên bất kỳ port nào?",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Bộ thu quang sử dụng tách sóng trực tiếp (Direct Detection) hoạt động như thế nào?",
+    "option1": "Nó sử dụng 1 diode quang để chuyển đổi trực tiếp tín hiệu quang đến thành tín hiệu điện",
+    "option2": "Nó sử dụng bộ phận có chức năng khôi phục thông tin từ điện trường và từ trường",
+    "option3": "Nó sử dụng 1 diode quang để chuyển đổi trực tiếp tín hiệu điện đến thành tín hiệu quang",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Both mechanical splices and prepolished/splice connectors require a good ______ to have low loss.",
+    "option1": "Field polishing technique",
+    "option2": "Cleave on the fiber being terminated",
+    "option3": "Fiber loss",
+    "option4": "Cable design",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Bụi bẩn với kích thước rất nhỏ có khả năng làm suy giảm tín hiệu quang?",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Bước sóng nào có của sổ suy hao (loss windows thấp nhất)?",
+    "option1": "850 nm",
+    "option2": "1310 nm",
+    "option3": "1550 nm",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Cables which contain both multimode and singlemode fibers are called:",
+    "option1": "Mixed cables",
+    "option2": "Hybrid cables",
+    "option3": "Composite cables",
+    "option4": "",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Cables with metallic conductors as well as fiber are called:",
+    "option1": "Mixed cables",
+    "option2": "Hybrid cables",
+    "option3": "Composite cables",
+    "option4": "",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Các bộ khuếch đại thường được sử dụng trong mạng truyền tải quang (OC)?",
+    "option1": "Bộ khuếch đại EDFA",
+    "option2": "Bộ khuếch đại Raman",
+    "option3": "Tất cả các phương án đều đúng",
+    "option4": "",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Các cách bù tán sắc sắc thể (Chromantic)?",
+    "option1": "Sử dụng hoặc kết hợp các sợi quang có đặc tính tán sắc khác nhau trên 1 khoảng cách truyền nhất định",
+    "option2": "Module bù tán sắc (DCMs)",
+    "option3": "Module bù dốc phân tán (DSCMs)",
+    "option4": "Bù tán sắc điện",
+    "option5": "Tất cả các phương án đều đúng",
+    "correct": 5
+  },
+  {
+    "Question": "Các cách thức triển khai mạng truyền tải quang?",
+    "option1": "Metro Area Network (MAN)",
+    "option2": "Mạng truyền tải xa (Long Haul) trên mặt đất",
+    "option3": "Submarine (Mạng ngầm)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Các công nghệ chính sử dụng cho mạng truyền tải quang là gì?",
+    "option1": "Nguồn phát quang có dòng laser ổn định",
+    "option2": "Môi trường truyền dẫn với suy hao thâp",
+    "option3": "Cảm biến quang có độ nhạy cao và nhiễu thấp",
+    "option4": "Cơ chế điều chế cấp cao",
+    "option5": "Tất cả các phương án đều đúng",
+    "correct": 5
+  },
+  {
+    "Question": "Các đường để sóng không gian đi qua khoảng cách giữa anten phát và anten thu?",
+    "option1": "Sóng trực tiếp",
+    "option2": "Sóng phản xạ từ đất",
+    "option3": "Sóng phản xạ từ tầng đối lưu",
+    "option4": "Sóng lan truyền trong lòng đất",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Các giao thức sử dụng trong mạng truyền tải quang?",
+    "option1": "Synchronous Optical Network (SONET)",
+    "option2": "Synchronous Digital Hierarchy (SDH)",
+    "option3": "Optical Transport Network (OTN)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Các kỹ thuật điều chế thường dùng trong DWDM?",
+    "option1": "OOK - On/off keying\nBPSK- Binary Phase Shift Keying\nQPSK - Quadrature Phase Shift Keying\nQAM- Quadrature Amplitude Modulation",
+    "option2": "BPSK- Binary Phase Shift Keying\nQPSK - Quadrature Phase Shift Keying\nQAM- Quadrature Amplitude Modulation",
+    "option3": "QPSK - Quadrature Phase Shift Keying\nQAM- Quadrature Amplitude Modulation",
+    "option4": "OOK - On/off keying\nBPSK- Binary Phase Shift Keying\nQAM- Quadrature Amplitude Modulation",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Các loại bộ lọc quang?",
+    "option1": "Fixed Filters",
+    "option2": "Bragg Grating Fixed Filters",
+    "option3": "Arrayed Waveguide Grating Fixed Filter",
+    "option4": "DWDM Colorless Filters",
+    "option5": "Tất cả các phương án đều đúng",
+    "correct": 5
+  },
+  {
+    "Question": "Các loại quỹ đạo vệ tinh thông dụng sử dụng trong thông tin vệ tinh hiện nay?",
+    "option1": "Quỹ đạo cực tròn",
+    "option2": "Quỹ đạo elip nghiêng",
+    "option3": "Quỹ đạo xích đạo tròn (vệ tinh địa tĩnh)",
+    "option4": "Vệ tinh quay quanh trái đất không theo quỹ đạo cụ thể",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Các lớp mạng của Mạng truyền tải Viettel",
+    "option1": "Lớp kết nối ngoại mạng",
+    "option2": "Lớp trục quốc gia",
+    "option3": "Lớp phân phối Metro",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Các nguyên nhân chính gây mất hướng anten?",
+    "option1": "Do bão, gió lớn",
+    "option2": "Khối ODU hỏng",
+    "option3": "Khối anten hỏng",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Các nguyên nhân gây ra suy hao trong sợi quang?",
+    "option1": "Tán xạ (Scattering)",
+    "option2": "Suy hao do sợi uốn cong (Bending losses)",
+    "option3": "Phản xạ Freshnel (Fresnel reflection)",
+    "option4": "Mối nối quang và bẩn tại đầu nối quang",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Các phân lớp của lớp kết nối ngoại mạng",
+    "option1": "Phân lớp kết nối quốc tế",
+    "option2": "Phân lớp kết nối trong nước",
+    "option3": "Tất cả các phương án trên đều đúng.",
+    "option4": "",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Các phân lớp của lớp phân phối metro",
+    "option1": "Phân lớp TỈnh",
+    "option2": "Phân lớp huyện",
+    "option3": "Phân lớp xã",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Các phân lớp của lớp trục quốc gia",
+    "option1": "Phân lớp liên khu vực",
+    "option2": "Phân lớp nội khu vực",
+    "option3": "Tất cả các phương án trên đều đúng.",
+    "option4": "",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Các tham số liên quan đến thiết kế tuyến Viba",
+    "option1": "Tọa độ",
+    "option2": "Độ cao nhà trạm so với mực nước biển",
+    "option3": "Độ cao của anten",
+    "option4": "Diện tích mảnh đất",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Các thành phần cơ bản của 1 sợi quang?",
+    "option1": "Core( Lõi)",
+    "option2": "Cladding( Lớp phủ)",
+    "option3": "Buffer or coating( Thần phần đệm)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Các thành phần của 1 bộ tách sóng quang (Optical Detection)?",
+    "option1": "Photodiodes",
+    "option2": "Coherent Detectors",
+    "option3": "Multiplexer and De-Multiplexer",
+    "option4": "Photodiodes and Coherent Detectors",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Các thành phần thường có trong một hệ thống DWDM?",
+    "option1": "Bộ phát đáp (Transponder)",
+    "option2": "Bộ lọc có chức năng add, drop hoặc pass through bước sóng",
+    "option3": "Bộ khuếch đại (Amplifier)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Các trạm VSAT Viettel hoạt động tại thị trường Việt Nam đang sử dụng loại vệ tinh nào?",
+    "option1": "Vệ tinh địa tĩnh GEO",
+    "option2": "Vệ tinh MEO",
+    "option3": "Vệ tinh LEO",
+    "option4": "Vệ tinh HEO",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Các ưu điểm của phương thức truyền dẫn quang?",
+    "option1": "Truyền được khoảng cách xa",
+    "option2": "Dung lượng lớn",
+    "option3": "Dịch vụ mềm dẽo",
+    "option4": "Chi phí thấp và bảo mật cao",
+    "option5": "Tất cả các phương án đều đúng",
+    "correct": 5
+  },
+  {
+    "Question": "Các yêu cầu của mạng truyền tải quang?",
+    "option1": "Tính khả dụng",
+    "option2": "Khả năng dự phòng",
+    "option3": "Khả năng phục hồi",
+    "option4": "Khả năng bảo vệ",
+    "option5": "Tất cả các phương án đều đúng",
+    "correct": 5
+  },
+  {
+    "Question": "Các yếu tố ảnh hưởng đến độ trễ trong mạng quang?",
+    "option1": "Trễ truyền gói tin như tốc độ bit giao thức hay loại điều chế được sử dụng",
+    "option2": "Trễ truyền sóng như khoảng cách truyền và suy hao sợi",
+    "option3": "Trễ truyền gói tin và trễ truyền sóng",
+    "option4": "",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Các yếu tố ảnh hưởng đến hiệu năng của laser dioade?",
+    "option1": "Laser Chirp",
+    "option2": "Back-reflection",
+    "option3": "Temperature",
+    "option4": "",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Các yêu tố gây ra ảnh hưởng phi tuyến?",
+    "option1": "Tán xạ Brillouin kích thích (Stimulated Brillouin Scattering-SBS)",
+    "option2": "Tán xạ Raman kích thích (Stimulated Raman Scattering - SRS)",
+    "option3": "Tự điều chế pha (Self-Phase Modulation - SPM)",
+    "option4": "Điều chế pha chéo (Cross-Phase Modulation - CPM) và trộn 4 bước sóng (Four-Wave Mixing - FWM)",
+    "option5": "Tất cả các phương án đều đúng",
+    "correct": 5
+  },
+  {
+    "Question": "Các yếu tố gây ra sự ảnh hưởng tuyến tính?",
+    "option1": "Tán sắc sắc thể (Chromantic)",
+    "option2": "Tán sắc phân cực mode (Polarization mode)",
+    "option3": "Tán xạ Brillouin kích thích (SBS)",
+    "option4": "Tán xạ Raman kích thích (SRS)",
+    "option5": "",
+    "correct": "1,2"
+  },
+  {
+    "Question": "Các yếu tố gây ra suy hao tín hiệu quang?",
+    "option1": "Linear Effects( Suy hao tuyến tính)",
+    "option2": "Nonlinear Effects( Suy hao phi tuyến)",
+    "option3": "Distance( Khoảng cách truyền)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Cách bộ thu quang tách ra liệu truyền đến?",
+    "option1": "Bộ thu quang sử dụng direct detection hoặc coherent detection",
+    "option2": "Bộ thu quang chỉ sử dụng direct detection",
+    "option3": "Bộ thu quang chỉ sử dụng coherent detection",
+    "option4": "Bộ thu quang sử dụng direct detection và coherent detection",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Cáp kết nối giữa IDU-ODU để truyền tải tín hiệu trung tần và cấp nguồn DC là loại gì?",
+    "option1": "Cáp đồng trục",
+    "option2": "Cáp LAN",
+    "option3": "Cáp đồng vàng xanh",
+    "option4": "Cáp xoắn đôi",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Card thuê bao là một card giao diện quang kết nối với dịch vụ (khách hàng) hoạt động ở bước sóng nào?",
+    "option1": "850 nm",
+    "option2": "1310 nm",
+    "option3": "1490 nm",
+    "option4": "1550 nm",
+    "option5": "",
+    "correct": "1,2,4"
+  },
+  {
+    "Question": "Card thuê bao trong hệ thống DWDM có thể  điều chỉnh hoặc giữ nguyên các giao thức và tốc độ bit?",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Cấu hình nào của tuyến viba khắc phục fading khi truyền qua mặt biển?",
+    "option1": "1+1, SD",
+    "option2": "1+0",
+    "option3": "2+0",
+    "option4": "1+0,SD",
+    "option5": "",
+    "correct": "1,4"
+  },
+  {
+    "Question": "Cấu tạo của sợi quang gồm?",
+    "option1": "Lõi (Core)",
+    "option2": "Vỏ (Cladding)",
+    "option3": "Bộ đệm hoặc lớp phủ (Buffer or Coating)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Câu trả lời nào sai khi mô tả đặc điểm truyền dẫn của hệ thống thông tin Viba",
+    "option1": "Các tuyến truyền dẫn dùng sóng vô tuyến",
+    "option2": "Chất lượng đường truyền bị ảnh hưởng nhiều bởi địa hình, thời tiết",
+    "option3": "Tuyến truyền dẫn viba được thiết kế theo tầm nhìn thẳng",
+    "option4": "Tần số càng cao thì khoảng cách truyền càng xa",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Chất liệu của bộ giao động nội của thiết bị PRC trên mạng lưới viettel là gì?",
+    "option1": "Cesium",
+    "option2": "Rubidum",
+    "option3": "Thạch anh",
+    "option4": "OCXO",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Chất liệu của bộ giao động nội của thiết bị SSU trên mạng lưới viettel là gì?",
+    "option1": "Cesium",
+    "option2": "Rubidum",
+    "option3": "Thạch anh",
+    "option4": "OCXO",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Chỉ số khúc xạ (RI) là gì?",
+    "option1": "RI là tỉ số giữa tốc độ của ảnh sáng truyền trong sợi quang so với tốc độ ánh sáng truyền trong chân không",
+    "option2": "RI là tốc độ ánh sáng truyền trong sợi quang",
+    "option3": "RI là tốc độ ánh sáng truyền trong chân không",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Chỉ số nhiễu phân cực (CPI) của anten trạm VSAT yêu cầu tối thiểu bao nhiêu thì đạt yêu cầu?",
+    "option1": 25,
+    "option2": 30,
+    "option3": 35,
+    "option4": 40,
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Chức năng của anten là gì",
+    "option1": "Xử lý tín hiệu trung tần",
+    "option2": "Xử lý tín hiệu cao tần",
+    "option3": "Bức xạ tín hiệu ra không gian",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Chức năng của IDU là gì",
+    "option1": "Giao diện cấp luồng",
+    "option2": "Điều chế và giải điều chế",
+    "option3": "Cấp nguồn cho ODU",
+    "option4": "Xử lý tín hiệu cao tần",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Có bao nhiêu dải bước sóng sóng được định nghĩa bởi ITU cho hệ thống truyền tải quang sử sụng sợi đơn mode?",
+    "option1": "5 band :\nO Band (Original band). E Band (Extended Band). S Band (Short Band). C Band (Conventional Band). L Bnad (Long band).",
+    "option2": "6 band :\nO Band (Original band). E Band (Extended Band). S Band (Short Band). C Band (Conventional Band). L Bnad (Long band). U-Band (Ultra-long band)",
+    "option3": "7 band :\nO Band (Original band). E Band (Extended Band). S Band (Short Band). C Band (Conventional Band). L Bnad (Long band). U-Band (Ultra-long band). M Band (Milimetter band)",
+    "option4": "8 band :\nO Band (Original band). E Band (Extended Band). S Band (Short Band). C Band (Conventional Band). L Bnad (Long band). U-Band (Ultra-long band). M Band (Milimetter band). G- Band (Guard Band)",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Có mấy cấp đồng bộ cho mạng đồng bộ thời gian thực ToD (Time of Day) với trường hợp nguồn tham chiếu NTP cắm trên thiết bị SSU",
+    "option1": "1 cấp",
+    "option2": "2 cấp",
+    "option3": "3 cấp",
+    "option4": "4 cấp",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Có mấy cấp đồng bộ cho mạng đồng bộ thời gian thực ToD (Time of Day) với trường hợp nguồn tham chiếu NTP lấy từ Internet",
+    "option1": "1 cấp",
+    "option2": "2 cấp",
+    "option3": "3 cấp",
+    "option4": "4 cấp",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Có mấy phân cấp đồng bộ tần số cho mạng IP/MPLS",
+    "option1": "1 cấp",
+    "option2": "2 cấp",
+    "option3": "3 cấp",
+    "option4": "4 cấp",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Có mấy phân cấp đồng bộ tần số cho mạng lõi, PSTN, 2G,3G,4G",
+    "option1": "3 cấp",
+    "option2": "4 cấp",
+    "option3": "5 cấp",
+    "option4": "2 cấp",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Công thức tính bán kính miền Fresnel thứ nhứ nhất phụ thuộc vào các tham số nào sau đây?",
+    "option1": "Khoảng cách từ điểm tính toán tới 2 trạm, khoảng cách tuyến truyền dẫn Viba, dải tần hoạt động của thiết bị",
+    "option2": "Khoảng cách từ điểm che chắn tới 2 trạm, kích thước anten",
+    "option3": "Kích thước anten, khoảng cách tuyến truyền dẫn Viba, dải tần hoạt động của thiết bị",
+    "option4": "Khoảng cách từ điểm che chắn tới 2 trạm, khoảng cách tuyến truyền dẫn Viba, độ cao treo anten",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Connector losses are calculated by adding up all the losses of the connectors, always _______.",
+    "option1": "Including the connectors on each end of the cable plant",
+    "option2": "Including the connectors on each end of the cable plant only if they are connected to a patchcord",
+    "option3": "Excluding the connectors on each end of the cable plant",
+    "option4": "Excluding the connectors on each end of the cable plant if the cable is connected directly to a transceiver",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Dải bước sóng hoạt động của ánh sáng nhìn thấy?",
+    "option1": "1nm - 400nm",
+    "option2": "400nm - 700 nm",
+    "option3": "700 nm - 1675 nm",
+    "option4": "1675 nm - 2345 nm",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Dải bước sóng hoạt động của C và L band?",
+    "option1": "1260 nm - 1675 nm",
+    "option2": "1360 nm- 1675 nm",
+    "option3": "1530 nm - 1565 nm",
+    "option4": "1530 nm - 1625 nm",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Dải bước sóng hoạt động của tia hồng ngoại?",
+    "option1": "1nm - 400nm",
+    "option2": "400nm - 700 nm",
+    "option3": "700 nm - 1675 nm",
+    "option4": "1675 nm - 2345 nm",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Dải bước sóng hoạt động của tia tử ngoại (Ultraviolet radiation -UV)?",
+    "option1": "1nm - 400nm",
+    "option2": "400nm - 700 nm",
+    "option3": "700 nm - 1675 nm",
+    "option4": "1675 nm - 2345 nm",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Dải tần nào bị suy hao không gian tự do ít nhất",
+    "option1": "6GHz",
+    "option2": "11GHz",
+    "option3": "23GHz",
+    "option4": "15GHz",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Dải tần nào bị suy hao không gian tự do nhiều nhất",
+    "option1": "6GHz",
+    "option2": "11GHz",
+    "option3": "23GHz",
+    "option4": "15GHz",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Dải tần phát (đường lên) băng tần C chuẩn trong vệ tinh có giá trị nào sau?",
+    "option1": "3700 -4200 Mhz",
+    "option2": "5925 - 6425Mhz",
+    "option3": "11.7-12.2 GHz",
+    "option4": "14-14.5 Ghz",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Dải tần phát (đường lên) băng tần full C trong vệ tinh có giá trị nào sau?",
+    "option1": "3400 -4200 Mhz",
+    "option2": "5850 - 6725Mhz",
+    "option3": "11.7-12.2 GHz",
+    "option4": "14-14.5 Ghz",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Dải tần phát (đường lên) băng tần Ku có giá trị nào sau?",
+    "option1": "3400 -4200 Mhz",
+    "option2": "5850 - 6725Mhz",
+    "option3": "11.7-12.2 GHz",
+    "option4": "14-14.5 Ghz",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Dải tần số của sóng SHF là gì",
+    "option1": "3 KHz ÷ 30KHz",
+    "option2": "30MHz ÷ 300MHz",
+    "option3": "300MHz ÷ 3GHz",
+    "option4": "3GHz ÷ 30GHz",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Dải tần số của sóng UHF là gì",
+    "option1": "3 KHz ÷ 30KHz",
+    "option2": "30MHz ÷ 300MHz",
+    "option3": "300MHz ÷ 3GHz",
+    "option4": "3GHz ÷ 30GHz",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Dải tần số của sóng VHF là gì",
+    "option1": "3 KHz ÷ 30KHz",
+    "option2": "30MHz ÷ 300MHz",
+    "option3": "300MHz ÷ 3GHz",
+    "option4": "3GHz ÷ 30GHz",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Dải tần số sử dụng cho truyền dẫn viba thuộc băng tần nào?",
+    "option1": "VHF",
+    "option2": "UHF",
+    "option3": "SHF",
+    "option4": "Không có đáp án đúng",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Dải tần thu (đường xuống) băng tần C chuẩn trong vệ tinh có giá trị nào sau?",
+    "option1": "3700 -4200 Mhz",
+    "option2": "5925 - 6425Mhz",
+    "option3": "11.7-12.2 GHz",
+    "option4": "14-14.5 Ghz",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Dải tần thu (đường xuống) băng tần full C trong vệ tinh có giá trị nào sau?",
+    "option1": "3400 -4200 Mhz",
+    "option2": "5850 - 6725Mhz",
+    "option3": "11.7-12.2 GHz",
+    "option4": "14-14.5 Ghz",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Dải tần thu (đường xuống) băng tần Ku trong vệ tinh có giá trị nào sau?",
+    "option1": "3400 -4200 Mhz",
+    "option2": "5850 - 6725Mhz",
+    "option3": "11.7-12.2 GHz",
+    "option4": "14-14.5 Ghz",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Dangerous light from fiber optic cables is bright and easily visible",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Đâu là đặc tính quan trọng của bộ thu quang?",
+    "option1": "Khả năng phát hiện phổ bước sóng rộng và lượng dữ liệu truyền đến thông qua ánh sáng đến bộ thu quang",
+    "option2": "Khả năng ghép kênh đơn và lượng dữ liệu truyền đến thông qua ánh sáng đến bộ thu quang",
+    "option3": "Khả năng phân kênh đơn và lượng dữ liệu truyền đến thông qua ánh sáng đến bộ thu quang",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Đâu là điểm khác nhau giữa symbol rate (baud) và bit rate?",
+    "option1": "Symbol là một hoặc nhiều bit dữ liệu. Symbol rate là số lượng symbol truyền trong 1 giây",
+    "option2": "Symbol là 1 bit dữ liệu. Symbol rate là số lượng symbol truyền trong 1 giây",
+    "option3": "Symbol là một bit dữ liệu. Symbol rate là số lượng symbols trong 1 giây",
+    "option4": "Symbol là một hay nhiều bit dữ liệu. Symbol rate là tổng số symbol",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Đầu ra của quy trình RDM",
+    "option1": "Cấu hình dịch vụ, sơ đồ mạng lưới được cập nhật",
+    "option2": "Báo cáo kết quả triển khai và các bài học kinh nghiệm",
+    "option3": "MOP – Thủ tục thay đổi do đối tác cung cấp",
+    "option4": "SLA và hợp đồng hiện tại được ký với đối tác",
+    "option5": "",
+    "correct": "1,2"
+  },
+  {
+    "Question": "Đầu vào quy trình RDM bao gồm:",
+    "option1": "Thông tin về hợp đồng mua sắm hoặc thỏa thuận đã được ký với đối tác",
+    "option2": "Thông tin quy hoạch mạng lưới",
+    "option3": "Các chỉ tiêu kỹ thuật",
+    "option4": "Cấu hình dịch vụ, sơ đồ mạng lưới được cập nhật",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Để truyền tải ánh sáng qua sợi quang. Ảnh sáng phải đảm bảo như thế nào?",
+    "option1": "Ánh sáng phải được phản xạ và duy trì trong lõi sợi quang",
+    "option2": "Ánh sáng phải được phản xạ đi xuyên qua sợi quang",
+    "option3": "Ảnh sáng phải được phản xạ và khúc xạ trong môi trường sợi quang",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Decibels (dB) là gì?",
+    "option1": "Decibels (dB) là đơn vị được sử dụng để biểu diễn các mức độ  công suất tín hiệu quang. dB là đại lượng để diễn tả tỷ số giữa các giá trị của công suất",
+    "option2": "Decibels (dB) là đơn vị được sử dụng để diễn tả các mức công suất tín hiệu điện",
+    "option3": "Decibels (dB) là đơn vị được sử dụng để diễn tả các mức công suất tín hiệu điện và tín hiệu quang",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Điểm khác nhau cơ bản giữa sợi quang đơn mode và sợi quang đa mode?",
+    "option1": "Kích thước lõi (Core)",
+    "option2": "Kích thước của lớp vỏ (Cladding)",
+    "option3": "Kích thước của lớp phủ (Coating)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Định nghĩa dự phòng 1+N về cáp",
+    "option1": "Kết nối 2 điểm trong đó 1 tuyến cáp chính và N tuyến cáp dự phòng",
+    "option2": "Kết nối 2 điểm trong đó 1 tuyến cáp dự phòng và N tuyến còn lại là tuyến cáp chính",
+    "option3": "Tất cả các phương án trên đều đúng.",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Định nghĩa vai trò của bộ thu quang?",
+    "option1": "Khả năng phát hiện phổ bước sóng rộng và lượng dữ liệu truyền đến thông qua ánh sáng đến máy thu",
+    "option2": "Khả năng ghép kênh đơn và lượng dữ liệu truyền đến thông qua ánh sáng đến máy thu",
+    "option3": "Khả năng phân kênh đơn và lượng dữ liệu truyền đến thông qua ánh sáng đến máy thu",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Định nghĩa về truyền dẫn quang?",
+    "option1": "Là phương thức truyền tải thông tin, dữ liệu sử dụng sóng ánh sáng căn cứ vào khoảng cách",
+    "option2": "Là phương thức truyền tải thông tin",
+    "option3": "Là phương thức truyền tải dịch vụ cho khách hàng dựa vào nhu cầu của dịch vụ",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Định ngĩa cáp kiên cố",
+    "option1": "Là cáp có tần suất đứt <1 sự cố /100Km/năm",
+    "option2": "Cáp kiên cố gồm cáp chôn\n(chôn trực tiếp, chôn cống bể hoặc cáp chôn trao đổi với VNPT, Bộ tư lệnh thông tin)",
+    "option3": "cáp treo (cáp OPGW, cáp ADSS treo trên các cột điện 110Kv trở lên",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Độ khả dụng của mạng là gì?",
+    "option1": "Tính khả dụng của mạng được biểu thị bằng % giữa thời gian mạng hoạt động có ích / tổng thời gian mạng hoạt động thực tế",
+    "option2": "Tính khả dụng của mạng được biểu thị bằng % giữa thời gian mạng không hoạt động / tổng thời gian mạng hoạt động thực tế",
+    "option3": "Tính khả dụng của mạng được biểu thị bằng % giữa thời gian trung bình mạng hoạt động ổn định / tổng thời gian mạng hoạt động thực tế",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Độ lợi (Gain) của anten phụ thuộc vào tập hợp các tham số nào dưới đây ?",
+    "option1": "Đường kính anten",
+    "option2": "Tần số",
+    "option3": "Công suất phát",
+    "option4": "Công suất thu",
+    "option5": "",
+    "correct": "1,2"
+  },
+  {
+    "Question": "Đơn vị áp dụng qui trình RDM",
+    "option1": "Trung tâm KTTC",
+    "option2": "Trung tâm VHKTTC",
+    "option3": "Trung tâm Kỹ thuật Khu vực 1, 2, 3",
+    "option4": "",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Đường lan truyền của sóng qua khoảng cách giữa anten phát và anten thu được phân thành mấy loại.",
+    "option1": 2,
+    "option2": 3,
+    "option3": 4,
+    "option4": 5,
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "E1 có tốc độ bit là bao nhiêu?",
+    "option1": "64 Kbps",
+    "option2": "2.048 Mbps",
+    "option3": "8.448 Mbps",
+    "option4": "34.368 Mbps",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Fiber is used in long distance phone networks because it is much cheaper than copper wire",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Giải tần số từ 3Ghz đến 30Ghz thuộc băng tần có tên:",
+    "option1": "UHF",
+    "option2": "SHF",
+    "option3": "VHF",
+    "option4": "HF",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Giảm hiện tượng fading bằng những cách nào dưới đây:",
+    "option1": "Phân tập không gian",
+    "option2": ". Phân tập tần số",
+    "option3": "Tăng công suất phát",
+    "option4": "Tăng đường kính anten",
+    "option5": "",
+    "correct": "1,2"
+  },
+  {
+    "Question": "Hai loại nguồn phát quang chủ yếu dùng là gì?",
+    "option1": "Distributed Feedback Laser (DFB)",
+    "option2": "Fabry-Perot laser (FP)",
+    "option3": "Vertical Cavity Surface Emitting Laser",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": "1,2"
+  },
+  {
+    "Question": "Hệ thống viba sử dụng loại cấu trúc gì trong trường hợp khoảng cách từ trạm cần triển khai đến trạm gốc quang  quá xa hoặc do địa hình đồi núi hiểm trở",
+    "option1": "Điểm - Điểm",
+    "option2": "Điểm - Đa điểm",
+    "option3": "Dạng chuỗi",
+    "option4": "Không có đáp án đúng",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Hệ thống viba trên mạng lưới Viettel đang sử dụng loại phân tập nào",
+    "option1": "phân tập không gian",
+    "option2": "Phân tập tần số",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Hệ thống VSAT của Viettel tại Việt Nam đang sử dụng phân cực vệ tinh nào sau?",
+    "option1": "Linear",
+    "option2": "Circular",
+    "option3": "Elliptical",
+    "option4": "Linear and Circular",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Hiện tượng fading trong thông tin Viba là hiện tượng:",
+    "option1": "Thăng giáng cường độ tín hiệu ở phía thu",
+    "option2": "Suy giảm cường độ tín hiệu do mưa",
+    "option3": "Suy giảm cường độ tín hiệu do nhiễu tần số",
+    "option4": "Phản xạ ngược của anten phát",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Hiện tượng gián đoạn thông tin vệ tinh Sunoutage xảy ra thời gian nào trong năm và khi nào?",
+    "option1": "Xảy ra vào mùa xuân và mùa thu hàng năm, khi mặt trời,  vệ tinh và trạm mặt đất thẳng hàng",
+    "option2": "Xảy ra vào mùa hè và mua thu, khi mặt trời và trạm mặt đất thẳng hàng",
+    "option3": "Xảy ra vào mùa hè và mua thu,  gián đoạn thông tin do mưa",
+    "option4": "Xảy ra vào mùa hè và mua thu, khi mặt trăng, vệ tinh và trạm vệ tinh mặt đất thẳng hàng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "IDU là thiết bị gì của tuyến viba?",
+    "option1": "Thiết bị trong nhà",
+    "option2": "Thiết bị ngoài trời",
+    "option3": "Thiết bị kết nối giữa trong nhà và ngoài trời",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "In an optical fiber, the light is transmitted through the ___________.",
+    "option1": "Core",
+    "option2": "Cladding",
+    "option3": "Buffer",
+    "option4": "Jacket",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "In order to specify a fiber optic cable properly, you need to specify installation specifications as well as environmental specifications.",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "In singlemode connectors, ______ is as important as low loss.",
+    "option1": "Ease of field termination",
+    "option2": "Low reflectance",
+    "option3": "Low cost",
+    "option4": "Compatibility with many cable types",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Industry standards have high values for component loss compared to typical values expected in normal installations.",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Khả năng dự phòng mạng là gì?",
+    "option1": "Khả năng dự phòng mạng được biểu hiện khi cả NE và các đường truyền (path) đều dược dự phòng",
+    "option2": "Khả năng dự phòng mạng được biểu hiện khi chỉ NE (Card, switch sợi, cấp nguồn, quạt tản nhiệt…) được dự phòng",
+    "option3": "Khả năng dự phòng mạng được biểu hiện khi chỉ đường truyền (sợi vật lý) được dự phòng",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Khái niệm phân tập tần số là gì?",
+    "option1": "Là truyền hai hoặc lớn hơn hai tín hiệu khác nhau trên cùng một kênh tần số",
+    "option2": "Là kỹ thuật thu phát đồng thời một tín hiệu trên hai kênh (hoặc nhiều hơn 2 kênh) tần số sóng vô tuyến",
+    "option3": "Truyền đồng thời một tín hiệu trên một kênh tần số",
+    "option4": "Truyền hai tín hiệu trên hai trên hai kênh tần số",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Khái niệm phân tập theo không gian là:",
+    "option1": "Là tín hiệu truyền trên hai kênh thông tin khác nhau, phía thu dùng một anten để thu.",
+    "option2": "Là tín hiệu truyền trên hai kênh thông tin khác nhau, phía thu dùng 2 anten (hoặc lớn hơn) để thu",
+    "option3": "Là tín hiệu truyền trên một kênh thông tin, phía thu dùng một anten để thu",
+    "option4": "Là kỹ thuật thu hoặc phát 1 tín hiệu trên 2 anten (hoặc nhiều hơn 2 anten) với cùng 1 tần số vô tuyến",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Khi thiết kế tuyến viba cần quan tâm các yếu tố nào",
+    "option1": "Khoảng cách tuyến",
+    "option2": "Dung lượng",
+    "option3": "Độ cao của anten",
+    "option4": "Diện tích mảnh đất",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Khi truyền sóng có dải tần 7Ghz và 15Ghz qua anten có đường kính 1.2m thì sóng ở dải tần nào được tăng ích lớn hơn?",
+    "option1": "sóng 7Ghz có độ tăng ích nhỏ hơn 15Ghz",
+    "option2": "sóng 7Ghz có độ tăng ích lớn hơn 15Ghz",
+    "option3": "sóng 7Ghz có độ tăng ích bằng 15Ghz khi độ rộng kênh như nhau",
+    "option4": "sóng7Ghz có độ tăng ích bằng 15Ghz",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Khi truyền sóng có dải tần 7Ghz và 15Ghz qua anten có đường kính 1.8m thì sóng ở dải tần nào được tăng ích lớn hơn?",
+    "option1": "sóng7Ghz có độ tăng ích bằng 15Ghz",
+    "option2": "sóng 7Ghz có độ tăng ích nhỏ hơn 15Ghz",
+    "option3": "sóng 7Ghz có độ tăng ích bằng 15Ghz khi độ rộng kênh như nhau",
+    "option4": "sóng 7Ghz có độ tăng ích lớn hơn 15Ghz",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Khi truyền sóng có dải tần 7Ghz và 15Ghz qua anten có đường kính 2.4m thì sóng ở dải tần nào được tăng ích lớn hơn?",
+    "option1": "sóng7Ghz có độ tăng ích bằng 15Ghz",
+    "option2": "sóng 7Ghz có độ tăng ích bằng 15Ghz khi độ rộng kênh như nhau",
+    "option3": "sóng 7Ghz có độ tăng ích lớn hơn 15Ghz",
+    "option4": "sóng 7Ghz có độ tăng ích nhỏ hơn 15Ghz",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Khối ODU trong viba split-mount được lấy nguồn từ đâu",
+    "option1": "Trục tiếp từ tủ nguồn",
+    "option2": "Từ IDU thông qua cáp đồng trục",
+    "option3": "Không cần nguồn",
+    "option4": "",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Khối thiết bị viba nằm ở ngoài trời bao gồm",
+    "option1": "IDU",
+    "option2": "ODU",
+    "option3": "Anten",
+    "option4": "",
+    "option5": "",
+    "correct": "2,3"
+  },
+  {
+    "Question": "Kỹ thuật điều chế nào cho tốc độ bit (bit rate) lớn nhất?",
+    "option1": "QAM từ 400G đến 1Tbps",
+    "option2": "QPSK từ 400G đến 1Tbps",
+    "option3": "OOK từ 400G đến 1Tbps",
+    "option4": "BPSK từ 400G đến 1Tbps",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Kỹ thuật giảm ảnh hưởng của fading nhiều tia (fading phản xạ)",
+    "option1": "phân tập không gian",
+    "option2": "XPIC",
+    "option3": "ATPC",
+    "option4": "ACM",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Kỹ thuật tách sóng nào hỗ trợ máy thu khôi phục dữ liệu từ cả điện trường và từ trường khi tín hiệu quang truyền đến?",
+    "option1": "Photodiodes",
+    "option2": "Coherent Detectors",
+    "option3": "Multiplexer and De-Multiplexer",
+    "option4": "Photodiodes and Coherent Detectors",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Liệt kê các layer của igital (electrical) OTN domain?",
+    "option1": "Optical Payload Unit (OPU)",
+    "option2": "Optical Data Unit (ODU)",
+    "option3": "Optical Transport Unit (OTU)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Liệt kê các miền Analog (photonic) OTN domain?",
+    "option1": "Optical Transmission Section (OTS)",
+    "option2": "Optical Multiplex Section (OMS)",
+    "option3": "Optical Multiplex Section (OMS)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Liệt kê các Topologies thường được sử dụng trong mạng truyền thông quang?",
+    "option1": "P2P",
+    "option2": "Ring",
+    "option3": "Mesh",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Liệt kê những lợi ích mà OTN đem lại cho truyền thông tin quang?",
+    "option1": "Hỗ trợ các dịch vụ dựa trên nền bước sóng",
+    "option2": "Khả năng chuyển đổi các bước sóng phụ",
+    "option3": "Chuyển tiếp sửa lỗi (FEC)",
+    "option4": "Vận hành, quản trị, bảo trì, chuẩn hóa mạng (OAM) cho mạng DWDM",
+    "option5": "Tất cả các phương án đều đúng",
+    "correct": 5
+  },
+  {
+    "Question": "Loại Laser Diode (LD) nào thường được sử dụng trong truyền tải DWDM?",
+    "option1": "Distributed Feedback Laser (DFB)",
+    "option2": "Fabry-Perot laser (FP)",
+    "option3": "Vertical Cavity Surface Emitting Laser",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Loại sợi quang đơn mode được sử dụng nhiều nhất là?",
+    "option1": "Non-dispersion Shifted Fiber (NDSF) defined in ITU G.652",
+    "option2": "Dispersion Shifted Fiber (DSF), defined in ITU G.653",
+    "option3": "Non-Zero Dispersion Shifted Fiber (NZ-DSF), defined in ITU G.655",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Loại sợi quang nào được sử dụng cho truyền quang ở khoảng cách lớn?",
+    "option1": "Đơn mode (Single Mode), vì kích thước lõi hẹp",
+    "option2": "Đơn mode (Single Mode), vì kích thước lõi lớn",
+    "option3": "Đa mode (Multi Mode), vì kích thước lõi hẹp",
+    "option4": "Đa mode (Multi Mode), vì kích thước lõi lớn",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Lớp kết nối ngoại mạng Viettel có mấy phân lớp",
+    "option1": 2,
+    "option2": 3,
+    "option3": 4,
+    "option4": 5,
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Lớp phân phối Metro có bao nhiêu phân lớp",
+    "option1": 2,
+    "option2": 3,
+    "option3": 4,
+    "option4": 5,
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Lớp PRC sử dụng tiêu chuẩn nào của ITU-T",
+    "option1": "G.811",
+    "option2": "G.812",
+    "option3": "G.813",
+    "option4": "G.8271",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Lớp SSU sử dụng tiêu chuẩn nào của ITU-T",
+    "option1": "G.811",
+    "option2": "G.812",
+    "option3": "G.813",
+    "option4": "G.8271",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Lớp trục quốc gia Viettel có mấy phân lớp",
+    "option1": 2,
+    "option2": 3,
+    "option3": 4,
+    "option4": 5,
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Loss budgets are used to ensure __________. (3 answers)",
+    "option1": "The network design will work with the chosen communications equipment",
+    "option2": "Losses of components chosen are appropriate for the cable plant",
+    "option3": "The cable plant tests have a comparison for pass/tail decisions",
+    "option4": "The network design will not work with the chosen communications equipment",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Loss budgets calculate the loss of the entire cable plant and all its components including the connectors on each end of the cable plant.",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Mạng đồng bộ tần số (SSU,PRC) bao gồm những lớp nào",
+    "option1": "Lớp PRC",
+    "option2": "Lớp SSU_T",
+    "option3": "Lớp SSU_L",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Mạng đồng bộ tần số (SSU,PRC) có mấy lớp",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Mạng truyền tải Viettel có mấy lớp mạng",
+    "option1": 2,
+    "option2": 3,
+    "option3": 4,
+    "option4": 5,
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Mạng tryền tải quang gồm các thành phần nào?",
+    "option1": "Optical Add/Drop Multiplex (OADM) DWDM",
+    "option2": "Fixed OADM (FOADM) DWDM",
+    "option3": "Reconfigurable OADM (ROADM) DWDM",
+    "option4": "Amplifier (OLA)",
+    "option5": "Tất cả các phương án đều đúng",
+    "correct": 5
+  },
+  {
+    "Question": "Match the fiber optic test instrument to the measurement or troubleshooting it does:Link insertion loss",
+    "option1": "Visual fault locator",
+    "option2": "Optical power meter",
+    "option3": "Optical loss test set (light source and power meter)",
+    "option4": "OTDR",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Match the fiber optic test instrument to the measurement or troubleshooting it does:Polarity of two or more fibers",
+    "option1": "Visual fault locator",
+    "option2": "Optical power meter",
+    "option3": "Optical loss test set (light source and power meter)",
+    "option4": "OTDR",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Match the fiber optic test instrument to the measurement or troubleshooting it does:Receiver power",
+    "option1": "Visual fault locator",
+    "option2": "Optical power meter",
+    "option3": "Optical loss test set (light source and power meter)",
+    "option4": "OTDR",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Match the fiber optic test instrument to the measurement or troubleshooting it does:Splice loss",
+    "option1": "Visual fault locator",
+    "option2": "Optical power meter",
+    "option3": "Optical loss test set (light source and power meter)",
+    "option4": "OTDR",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Match the fiber optic test instrument to the measurement or troubleshooting it does:Transmitter power output",
+    "option1": "Visual fault locator",
+    "option2": "Optical power meter",
+    "option3": "Optical loss test set (light source and power meter)",
+    "option4": "OTDR",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Module thu phát C- Form Factor Pluggable (CFP) hỗ trợ?",
+    "option1": "Lên đến 4.25Gbps với bước sóng 850, 1310, 1550 nm và DWDM",
+    "option2": "Lên đến 10Gbps với bước sóng 850, 1310, 1550 nm và DWDM",
+    "option3": "Lên đến 100 Gbps với bước sóng 850, 1310, 1550 và DWDM",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Module thu phát Small Form Factor Pluggable (SFP) hỗ trợ?",
+    "option1": "Lên đến 4.25Gbps với bước sóng 850, 1310, 1550 nm và DWDM",
+    "option2": "Lên đến 10Gbps với bước sóng 850, 1310, 1550 nm và DWDM",
+    "option3": "Lên đến 100 Gbps với bước sóng 850, 1310, 1550 và DWDM",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Module thu phát Small Form Factor Pluggable (XFP) hỗ trợ?",
+    "option1": "Lên đến 4.25Gbps với bước sóng 850, 1310, 1550 nm và DWDM",
+    "option2": "Lên đến 10Gbps với bước sóng 850, 1310, 1550 nm và DWDM",
+    "option3": "Lên đến 100 Gbps với bước sóng 850, 1310, 1550 và DWDM",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Môi trường truyền dẫn Viba là gì?",
+    "option1": "Sợi quang",
+    "option2": "Phản xạ trên mặt đất",
+    "option3": "Không gian tự do",
+    "option4": "Môi trường điện ly",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Most outside plant installations are singlemode fiber",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Most singlemode field  terminations are made by fusion splicing a factory-made or fusion splice-on connector (SOC) pigtail onto the cable.",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Một trong những điểm khác nhau giữa OTN và SDH?",
+    "option1": "SDH có tốc độ bit lên đến 40Gbps, OTN có tốc độ bit lớn hơn 40Gbps",
+    "option2": "SDH có tốc độ bit lên tới 100Gbps, OTN có tốc độ bit lớn hơn 100Gbps",
+    "option3": "SDH có tốc độ bit lên tới 100Gbps, OTN có tốc độ bit lớn hơn 200Gbps",
+    "option4": "SDH có tốc độ bit lên tới 100Gbps, OTN có tốc độ bit lớn hơn 300Gbps",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Một trong những điểm khác nhau giữa OTN và SDH?",
+    "option1": "OTN định nghĩa kích thước frame cố định trong khi SONET/SDH định nghĩa tốc độ frame cố định",
+    "option2": "SDH định nghĩa kích thước frame cố định trong khi OTN định nghĩa tốc độ frame cố định",
+    "option3": "OTN định nghĩa kích thước frame linh hoạt trong khi SONET/SDH định nghĩa tốc độ frame cố định",
+    "option4": "OTN dđịnh nghĩa kích thước frame cố định trong khi SONET/SDH định nghĩa tốc độ frame linh hoạt",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Nguồn tham chiếu chính (số 1)của thiết bị SSU_L trong mạng Viettel tham chiếu từ đâu",
+    "option1": "Từ GPS",
+    "option2": "Từ SSU_T",
+    "option3": "Từ SSU_L",
+    "option4": "Từ PRC",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Nguồn tham chiếu chính (số 1)của thiết bị SSU_T trong mạng Viettel tham chiếu từ đâu",
+    "option1": "Từ GPS",
+    "option2": "Từ SSU_T",
+    "option3": "Từ SSU_L",
+    "option4": "Từ PRC",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Nguồn tham chiếu của thiết bị PRC trong mạng Viettel tham chiếu từ đâu",
+    "option1": "Từ GPS",
+    "option2": "Từ SSU_T",
+    "option3": "Từ SSU_L",
+    "option4": "Sử dụng bộ dao động nội Cesium để làm tham chiếu cho mạng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Nguồn tham chiếu số 2 của thiết bị SSU_T trong mạng Viettel tham chiếu từ đâu",
+    "option1": "Từ GPS",
+    "option2": "Từ SSU_T",
+    "option3": "Từ SSU_L",
+    "option4": "Từ PRC",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Nguồn tham chiếu số 3 của thiết bị SSU_L trong mạng Viettel tham chiếu từ đâu",
+    "option1": "Từ GPS",
+    "option2": "Từ SSU_T",
+    "option3": "Từ SSU_L",
+    "option4": "Nguồn từ PRC đặt tại tổng trạm khác",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Nguồn tham chiếu số 3 của thiết bị SSU_T trong mạng Viettel tham chiếu từ đâu",
+    "option1": "Từ GPS",
+    "option2": "Từ SSU_T",
+    "option3": "Từ SSU_L",
+    "option4": "Nguồn từ PRC đặt tại tổng trạm khác",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Những công cụ nào sau đây dùng để khảo sát tuyến truyền dẫn Viba?",
+    "option1": "Máy tính và phần mềm Google earth",
+    "option2": "GPS",
+    "option3": "La bàn",
+    "option4": "Nhiệt kế",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "ODU là thiết bị gì của tuyến viba?",
+    "option1": "Thiết bị trong nhà",
+    "option2": "Thiết bị ngoài trời",
+    "option3": "Thiết bị kết nối giữa trong nhà và ngoài trời",
+    "option4": "",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "One calculates the contribution of the loss of the fiber to the loss budget by __________.",
+    "option1": "Looking up the attenuation of the fiber on a manufacturer's data sheet",
+    "option2": "Dividing the length of the fiber by the attenuation",
+    "option3": "Multiplying the length of the fiber by the attenuation coefficient",
+    "option4": "Choosing the best loss possible",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Optical fibers can transmit either analog or digital signals.",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "OTN là gì?",
+    "option1": "Là 1 loại giao thức truyền tải thông tin quang cung cấp khả năng chuyển mạch bước sóng khi được triển khai với WDM và các sóng con đã được chuẩn hóa",
+    "option2": "Là 1 công nghệ cho phép vận chuyển đồng thời nhiều luồng dữ liệu, mỗi luồng trên một bước sóng khác nhau trên cùng 1 sợi quang",
+    "option3": "Là 1 công nghệ được phép hoạt động bằng cách sử dụng sơ đồ ghép kênh do ITU xác định",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Outside plant cabling can be installed by ________ (3 answers)",
+    "option1": "Pulling in underground in conduit",
+    "option2": "Direct burial",
+    "option3": "Aerial suspension",
+    "option4": "Laying on ground",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Phân cấp chuỗi đồng bộ tần số mạng SDH trong mạng Viettel được quy định như thế nào?",
+    "option1": "Mỗi vùng mạng SDH tham chiếu đồng bộ tới 02 SSU qua 02 thiết bị SDH khác nhau, hoạt động theo cơ chế Active – Standby I80",
+    "option2": "Mỗi vùng mạng SDH tham chiếu đồng bộ tới 01 SSU",
+    "option3": "Mỗi vùng mạng SDH tham chiếu đồng bộ tới 03 SSU khác nhau",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Phân loại cáp quang?",
+    "option1": "Tight - buffered",
+    "option2": "Losse - Tube",
+    "option3": "Tất cả các phương án đều đúng",
+    "option4": "",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Phân loại sợi quang?",
+    "option1": "Đơn mode (Single Mode)",
+    "option2": "Đa mode (Multi Mode)",
+    "option3": "Hai mode (Double Mode)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": "1,2"
+  },
+  {
+    "Question": "Phương lan truyền của sóng được quyết định bởi khối nào sau đây?",
+    "option1": "IDU",
+    "option2": "ODU",
+    "option3": "Anten",
+    "option4": "Cáp IF",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Phương pháp truyền tải thông tin Vận Hành, Quản trị, Bảo trì (OAM) là gì?",
+    "option1": "In-band OAM chỉ bằng các Overhead byte",
+    "option2": "Out-band OAM chỉ bằng các kênh OSC",
+    "option3": "Cả In-band và Out-band OAM",
+    "option4": "",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Phương thức bảo vệ nào được sử dụngtrong SDH?",
+    "option1": "SNCP",
+    "option2": "MS-SP Ring",
+    "option3": "Automatic Protection Switching (APS)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Physical contact (PC) polish on connectors is designed to reduce _____.",
+    "option1": "Loss",
+    "option2": "Reflectance",
+    "option3": "Loss and reflectance",
+    "option4": "Polishing time",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "PRC viết tắt là gì",
+    "option1": "Primary Reference Clock",
+    "option2": "Programed Reference Clock",
+    "option3": "Priority Reference Clock",
+    "option4": "Property Reference Clock",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Premise cables in LAN backbones often contain _______.",
+    "option1": "Only multimode fiber",
+    "option2": "Only singlemode fiber",
+    "option3": "Both multimode and singlemode fiber",
+    "option4": "Plastic optical fiber",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Quan điểm quy hoạch cho phân lớp huyện thuộc lớp phân phối metro",
+    "option1": "Dự phòng 1+3 về cáp. Đối với các huyện/thị xã thường xuyên\nxảy ra bão và thiên tai, mỗi AGG phải có ít nhất 01 tuyến cáp\nkiên cố về tổng trạm tỉnh.",
+    "option2": "Ưu tiên đặt thiết bị DWDM liên huyện tại các vị trí có AGG\nhoặc PRT.",
+    "option3": "Phân bổ các kết nối uplink trên 02 transponder khác nhau.",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Quan điểm quy hoạch cho phân lớp kết nối quốc tế",
+    "option1": "Dự phòng 1+1 về cáp từ các điểm POP quốc tế đến Điểm cập\nbờ/Điểm biên giới tại quốc gia đó.",
+    "option2": "Dự phòng 1+3 về cáp bằng DWDM cho kết nối từ Điểm cập\nbờ/Điểm biên giới về TTKV trong đó có ít nhất 02 tuyến cáp\nkiên cố",
+    "option3": "Truyền dẫn kết nối quốc tế có Điểm cập bờ/Điểm biên giới\ntại khu vực nào thì kết nối với thiết bị IGW/CKV tại khu vực\nđấy.",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Quan điểm quy hoạch cho phân lớp kết nối trong nước",
+    "option1": "Ưu tiên sử dụng kết nối quang trực tiếp với các kết nối 10G\nvà sử dụng DWDM với các kết nối 100G.",
+    "option2": "Ưu tiên triển khai dự phòng 1+1 về cáp kết nối tới 02 DGW\ntại 02 TTKV của Viettel",
+    "option3": "Tất cả các phương án trên đều đúng.",
+    "option4": "",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Quan điểm quy hoạch cho phân lớp liên khu vực thuộc lớp trục quốc gia",
+    "option1": "Mỗi trục DWDM đều sẵn sàng hạ kênh tại tất cả các TTKV.",
+    "option2": "Các thiết bị DWDM thuộc các trục khác nhau ưu tiên đặt tại\ncác tòa nhà khác nhau hoặc khác tầng cùng tòa nhà.",
+    "option3": "Dự phòng 1+3 về trục (1A, 2B, 1C, 1D).",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Quan điểm quy hoạch cho phân lớp nội khu vực thuộc lớp trục quốc gia",
+    "option1": "Mỗi RING DWDM liên tổng trạm đều sẵn sàng hạ kênh tại\ntất cả các TTKV.",
+    "option2": "Các thiết bị thuộc các RING DWDM liên tổng trạm khác\nnhau ưu tiên đặt tại các tòa nhà khác nhau hoặc khác tầng\ncùng tòa nhà.",
+    "option3": "Dự phòng 1+1 về subrack hạ kênh cho các thiết bị DWDM\ntại TTKV, subrack quang tách biệt theo hướng.",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Quan điểm quy hoạch cho phân lớp tỉnh thuộc lớp phân phối metro",
+    "option1": "Các ring truyền dẫn DWDM liên tỉnh đảm bảo kết cuối theo\n02 hướng về 02 TTKV khác nhau.",
+    "option2": "Dự phòng 1+3 về cáp trong đó có ít nhất 02 tuyến cáp kiên\ncố theo 02 hướng khác nhau của RING DWDM liên tỉnh kết\nnối về các TTKV.",
+    "option3": "Mỗi tỉnh có 02 thiết bị DWDM liên tỉnh đặt tại 02 tổng trạm\ntỉnh khác nhau (đặt theo thiết bị PRT), riêng 03 thành phố\nlớn HNI, DNG và HCM cho phép đặt thiết bị DWDM liên\ntỉnh tại TTKV",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Quan điểm quy hoạch cho phân lớp xã thuộc lớp phân phối metro",
+    "option1": "Dự phòng 1+1 về cáp.",
+    "option2": "Các trạm UT1, UT2 tại các huyện/thị xã thường xuyên xảy ra\nbão và thiên tai phải có ít nhất 01 tuyến cáp kiên cố về AGG.",
+    "option3": "Tất cả các phương án trên đều đúng.",
+    "option4": "",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Quy trình RDM: Giai đoạn Chuẩn bị các điều kiện\nđảm bảo bao gồm",
+    "option1": "Giai đoạn này bao gồm các hành động từ sau khi ký hợp đồng với đối tác, đánh giá các điều kiện đảm bảo",
+    "option2": "Đánh giá các điều kiện đảm bảo cho\nĐến khi có được kế hoạch triển khai,",
+    "option3": "Thực hiện thiết kế LLD và\nhoàn thành các điều kiện đảm bảo",
+    "option4": "",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Quy trình RDM: Quy trình gồm bao nhiêu bước",
+    "option1": 39,
+    "option2": 40,
+    "option3": 44,
+    "option4": 23,
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Quy trình RDM: Theo dõi hàng từ cảng về kho",
+    "option1": "7 ngày",
+    "option2": "8 ngày",
+    "option3": "10 ngày",
+    "option4": "15 ngày",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Quy trình RDM: Theo dõi việc tạo phiếu yêu cầu KCS",
+    "option1": "1 ngày",
+    "option2": "3 ngày",
+    "option3": "5 ngày",
+    "option4": "7 ngày",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Quy trình RDM: Vai trò quản lý dự án",
+    "option1": "Điều phối và thực thi toàn bộ dự án",
+    "option2": "Chịu trách nhiệm về chất lượng, tiến độ dự án",
+    "option3": "Chỉ định các nguồn lực tham gia",
+    "option4": "Hỗ trợ sau triển khai",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Rays of light transmitted in multimode  fiber are called ________.",
+    "option1": "Reflections",
+    "option2": "Refractions",
+    "option3": "Waves",
+    "option4": "Modes",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "SDH được xây dựng theo chuẩn nào?",
+    "option1": "G.811 (PRC)",
+    "option2": "G.812 (SSU)",
+    "option3": "G.813 (SEC)",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Singlemode fiber has ________ bandwidth than multimode fiber.",
+    "option1": "More",
+    "option2": "Less",
+    "option3": "The same",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Singlemode fiber has a smaller core than multimode fiber.",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Sóng âm thanh truyền trong không khí là loại sóng gì",
+    "option1": "sóng dọc",
+    "option2": "Sóng ngang",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Sóng đất  được phân thành mấy loại?",
+    "option1": 2,
+    "option2": 3,
+    "option3": 4,
+    "option4": 5,
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Sóng điện từ là các sóng là loại sóng gì?",
+    "option1": "Sóng dọc",
+    "option2": "Sóng ngang",
+    "option3": "Sóng chéo",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Sóng dọc có đặc điểm gì?",
+    "option1": "Sóng truyền lan theo hướng vuông góc với phương dao động của nó",
+    "option2": "Sóng truyền lan theo phương dao động của nó",
+    "option3": "Sóng truyền lan theo hướng 45° so với phương dao động của nó",
+    "option4": "Sóng truyền lan theo hướng 60° so với phương dao động của nó",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Sóng ngang có đặc điểm gì?",
+    "option1": "Sóng truyền lan theo hướng vuông góc với phương dao động của nó",
+    "option2": "Sóng truyền lan theo phương dao động của nó",
+    "option3": "Sóng truyền lan theo hướng 45° so với phương dao động của nó",
+    "option4": "Sóng truyền lan theo hướng 60° so với phương dao động của nó",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Splicing is very rare in premises networks",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "STM - 1 có tốc độ bit là bao nhiêu?",
+    "option1": "155.52 Mbps",
+    "option2": "622.08 Mbps",
+    "option3": "2.488 Gbps",
+    "option4": "9.953 Gbps",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "STM - 16 có tốc độ bit là bao nhiêu?",
+    "option1": "155.52 Mbps",
+    "option2": "622.08 Mbps",
+    "option3": "2.488 Gbps",
+    "option4": "9.953 Gbps",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "STM - 256 có tốc độ bit là bao nhiêu?",
+    "option1": "622.08 Mbps",
+    "option2": "2.488 Gbps",
+    "option3": "9.953 Gbps",
+    "option4": "39.813 Gbps",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "STM - 4 có tốc độ bit là bao nhiêu?",
+    "option1": "155.52 Mbps",
+    "option2": "622.08 Mbps",
+    "option3": "2.488 Gbps",
+    "option4": "9.953 Gbps",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "STM - 64 có tốc độ bit là bao nhiêu?",
+    "option1": "155.52 Mbps",
+    "option2": "622.08 Mbps",
+    "option3": "2.488 Gbps",
+    "option4": "9.953 Gbps",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Sự phản xạ của ánh sáng là gì?",
+    "option1": "Sự phản xạ là sự thay đổi đột ngột về hướng của tia sáng tại mặt phân cách giữa 2 môi trường khác nhau",
+    "option2": "Sự phản xạ là sự thay đổi đột ngột về hướng của tia sáng tại mặt phân cách giữa 3 môi trường khác nhau",
+    "option3": "Tất cả các phương án đều đúng",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Tần số  sai lệch (Δf_MHz) giữa tần số phát và tần số thu sau khi chuyển đổi qua transponder vệ tinh băng C chuẩn có giá trị bao nhiêu?",
+    "option1": "2225Mhz",
+    "option2": "3025Mhz",
+    "option3": "4000Mhz",
+    "option4": "5000Mhz",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Tần số  sai lệch (Δf_MHz) giữa tần số phát và tần số thu sau khi chuyển đổi qua transponder vệ tinh băng C mở rộng có giá trị bao nhiêu?",
+    "option1": "2225Mhz",
+    "option2": "3025Mhz",
+    "option3": "4000Mhz",
+    "option4": "5000Mhz",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Tên của quá trình mà đặc tính của sóng mang được thay đổi sao cho phù hợp với thông tin tryền đi?",
+    "option1": "Multiplexing( Ghép kênh)",
+    "option2": "Modulation( Điều chế )",
+    "option3": "Regeneration( Tái tạo )",
+    "option4": "Detection( Phát hiện)",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "The ___  protects the fiber from harm. (3 answers)",
+    "option1": "Primary buffer coating",
+    "option2": "Aramid fiber strength members",
+    "option3": "Jacket",
+    "option4": "Glass core",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "The diameter of an optical fiber is traditionally measured in _____.",
+    "option1": "Meters",
+    "option2": "Millimeters",
+    "option3": "Microns (micrometers)",
+    "option4": "Nanometers",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "The difference between a fiber optic connector and a splice is:",
+    "option1": "Connectors are larger than splices",
+    "option2": "Connectors are demountable, while splices are permanent",
+    "option3": "Connectors require adhesives",
+    "option4": "Splices need expensive tools",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "The minimum long term bend radius of installed fiber optic cable is usually specified as no less than ________.",
+    "option1": "12 inches",
+    "option2": "1 meter",
+    "option3": "10 times the cable diameter",
+    "option4": "20 times the cable diameter",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Thiết bị  thu LNB đang dùng tại trạm VSAT Remote được kết nối trực tiếp đến thiết bị nào sau?",
+    "option1": "BUC",
+    "option2": "Modem",
+    "option3": "Tối ưu",
+    "option4": "BTS",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Thiết bị đồng bộ GPS được kết nối trực tiếp với thiết bị VSAT nào ?",
+    "option1": "Tối ưu Remote",
+    "option2": "Modem Remote",
+    "option3": "Modem Hub",
+    "option4": "BUC, LNB",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Thiết bị hạ tần Downconverter đang dùng tại trạm VSAT Hub của Viettel tại thị trường Việt Nam kết nối trực tiếp đến thiết bị nào sau?",
+    "option1": "Tối ưu",
+    "option2": "BSC",
+    "option3": "SSPA",
+    "option4": "LNA",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Thiết bị khuếch đại công suất SSPA hãng Vertex đang sử dụng tại trạm Hub Viettel, Việt Nam có công suất tối đa bao nhiêu W?",
+    "option1": "800W",
+    "option2": "1000W",
+    "option3": "20W",
+    "option4": "25W",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Thiết bị modem vệ tinh hoạt động tại các trạm VSAT Remote của Viettel Việt Nam kết nối trực tiếp đến thiết bị nào sau?",
+    "option1": "GPS",
+    "option2": "tối ưu băng thông",
+    "option3": "BUC",
+    "option4": "LNB",
+    "option5": "",
+    "correct": "2,3,4"
+  },
+  {
+    "Question": "Thiết bị nâng tần Upconverter đang dùng tại trạm VSAT Hub của Viettel tại thị trường Việt Nam kết nối trực tiếp đến thiết bị nào sau?",
+    "option1": "Tối ưu",
+    "option2": "BSC",
+    "option3": "SSPA",
+    "option4": "LNA",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Thiết bị nào có chức năng chuyên tín hiệu trung tần từ IDU thành tín hiệu hiêu cao tần (dải GHz) để truyền đi xa?",
+    "option1": "Cáp IF",
+    "option2": "IDU",
+    "option3": "ODU",
+    "option4": "Anten",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Thiết bị nào có chức năng điều chế và giai điều chế?",
+    "option1": "Cáp IF",
+    "option2": "IDU",
+    "option3": "ODU",
+    "option4": "Anten",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Thiết bị nào cung cấp giao diện cấp luồng E1/FE/GE?",
+    "option1": "Cáp IF",
+    "option2": "IDU",
+    "option3": "ODU",
+    "option4": "Anten",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Thiết bị nào kết nối với anten",
+    "option1": "IDU",
+    "option2": "ODU",
+    "option3": "IF cable",
+    "option4": "Van thoát sét",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Thiết bị phát BUC đang dùng tại trạm VSAT Remote được kết nối trực tiếp đến thiết bị nào sau?",
+    "option1": "LNB",
+    "option2": "Modem",
+    "option3": "Tối ưu",
+    "option4": "BTS",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Thiết bị PRC là gì",
+    "option1": "Là đồng hồ nguyên tử cung cấp các xung mẫu với độ chính xác và các tham số tuân theo khuyến nghị ITU G.811",
+    "option2": "Là thiết bị dùng để cung cấp tín hiệu đồng bộ cho các phần tử trong mạng Viettel",
+    "option3": "Là các đồng hồ nội của các thiết bị SDH. Các bộ dao động nội này được tham chiếu từ các thiết bị kết nối liền kề với độ chính xác và các tham số chất lượng tuân theo khuyến nghị G.813 ITU-T",
+    "option4": "Là nguồn cung cấp tín hiệu đồng bộ cho các thiết bị (PTP Client..) sử dụng giao thức PTP 1588v2",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Thiết bị PTP server",
+    "option1": "Là đồng hồ nguyên tử cung cấp các xung mẫu với độ chính xác và các tham số tuân theo khuyến nghị ITU G.811",
+    "option2": "Là thiết bị dùng để cung cấp tín hiệu đồng bộ cho các phần tử trong mạng Viettel",
+    "option3": "Là các đồng hồ nội của các thiết bị SDH. Các bộ dao động nội này được tham chiếu từ các thiết bị kết nối liền kề với độ chính xác và các tham số chất lượng tuân theo khuyến nghị G.813 ITU-T",
+    "option4": "Là nguồn cung cấp tín hiệu đồng bộ cho các thiết bị (PTP Client..) sử dụng giao thức PTP 1588v2",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Thiết bị SEC là gì",
+    "option1": "Là đồng hồ nguyên tử cung cấp các xung mẫu với độ chính xác và các tham số tuân theo khuyến nghị ITU G.811",
+    "option2": "Là thiết bị dùng để cung cấp tín hiệu đồng bộ cho các phần tử trong mạng Viettel",
+    "option3": "Là các đồng hồ nội của các thiết bị SDH. Các bộ dao động nội này được tham chiếu từ các thiết bị kết nối liền kề với độ chính xác và các tham số chất lượng tuân theo khuyến nghị G.813 ITU-T",
+    "option4": "Là nguồn cung cấp tín hiệu đồng bộ cho các thiết bị (PTP Client..) sử dụng giao thức PTP 1588v2",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Thiết bị SSU là gì",
+    "option1": "Là đồng hồ nguyên tử cung cấp các xung mẫu với độ chính xác và các tham số tuân theo khuyến nghị ITU G.811",
+    "option2": "Là thiết bị dùng để cung cấp tín hiệu đồng bộ cho các phần tử trong mạng Viettel",
+    "option3": "Là các đồng hồ nội của các thiết bị SDH. Các bộ dao động nội này được tham chiếu từ các thiết bị kết nối liền kề với độ chính xác và các tham số chất lượng tuân theo khuyến nghị G.813 ITU-T",
+    "option4": "Là nguồn cung cấp tín hiệu đồng bộ cho các thiết bị (PTP Client..) sử dụng giao thức PTP 1588v2",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Thiết bị tối ưu băng thông đang dùng tại các trạm VSAT Remote của Viettel tại Việt Nam kết nối trực tiếp đến thiết bị nào sau?",
+    "option1": "BTS",
+    "option2": "Modem",
+    "option3": "BUC",
+    "option4": "LNB",
+    "option5": "",
+    "correct": "1,2"
+  },
+  {
+    "Question": "Thiết bị viba sử dụng trong mạng Viettel hoạt động trong các dải tần nào",
+    "option1": "6/7 /8 GHz",
+    "option2": "15 GHz",
+    "option3": "18 GHz",
+    "option4": "27GHz",
+    "option5": "",
+    "correct": "1,2,3"
+  },
+  {
+    "Question": "Thông tin nào cần thu thập khi khảo sát tuyến viba",
+    "option1": "Độ cao cột",
+    "option2": "Góc phương vị (azimuth)",
+    "option3": "số lượng dân cư",
+    "option4": "diện tích mảnh đất",
+    "option5": "",
+    "correct": "1,2"
+  },
+  {
+    "Question": "Thuật ngữ \"Ghép kênh phân chia theo bước sóng dày đặc\" (DWDM) là một công nghệ truyền tải vật lý.  Mật độ cao (Dense) chỉ độ chênh lệch về bước sóng giữa 2 kênh quang liền kề, được quy định bởi Liên Minh Viễn Thông Quốc Tế (ITU)?",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Thuật ngữ \"Ghép kênh phân chia theo bước sóng\" (WDM) là một công nghệ cho phép truyền tải đồng thời nhiều luồng dữ liệu, mỗi luồng dữ liệu được truyền bởi 1 bước sóng khác nhau trên cùng 1 sợi quang?",
+    "option1": "Đúng",
+    "option2": "Sai",
+    "option3": "",
+    "option4": "",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Thuật ngữ BUC của thiết bị phát tại trạm Remote là viết tắt của từ tiếng Anh nào sau ?",
+    "option1": "Bandwidth Uplink Carrier",
+    "option2": "Block UpConverter",
+    "option3": "Bandwidth Uplink C band",
+    "option4": "Bandwidth Uplink Control",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Thuật ngữ LNB của thiết bị thu tại trạm Remote là viết tắt của từ tiếng Anh nào sau ?",
+    "option1": "Low Noise Bandwidth",
+    "option2": "Low Noise Block downconverter",
+    "option3": "Level Noise Bandwidth",
+    "option4": "L band Noise Blockdownconverter",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Thuật ngữ SSPA trong thông tin vệ tinh là viết tắt của từ tiếng Anh nào sau ?",
+    "option1": "Solid State Power Amplifier",
+    "option2": "Satellite Status Power Amplifier",
+    "option3": "Satellite Service Power Advantech",
+    "option4": "Satellite Supply Power Amplifier",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Thuật ngữ TT&C trong thông tin vệ tinh là viết tắt của từ tiếng Anh nào sau (theo thứ tự)?",
+    "option1": "Tracking, Telemetry,  Command",
+    "option2": "Telecomunication, Tracking, Control",
+    "option3": "Telecomunication, Terminal, Control",
+    "option4": "Telecomunication, Transponder, Control",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Thuật ngữ vệ tinh GEO trong thông tin vệ tinh là viết tắt của từ tiếng Anh nào sau?",
+    "option1": "Geostationary orbit",
+    "option2": "Global Earth Orbit",
+    "option3": "Global Equator Orbit",
+    "option4": "Glonass Earth Orbit",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Thuật ngữ vệ tinh LEO trong thông tin vệ tinh là viết tắt của từ tiếng Anh nào sau?",
+    "option1": "Low Earth Orbit",
+    "option2": "Line Earth Orbit",
+    "option3": "Line Equator Orbit",
+    "option4": "Low Equator Orbit",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Thuật ngữ vệ tinh MEO trong thông tin vệ tinh là viết tắt của từ tiếng Anh nào sau?",
+    "option1": "Medium Earth Orbit",
+    "option2": "Maximun Earth Orbit",
+    "option3": "Minimum Earth Orbit",
+    "option4": "Medium Equator Orbit",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Thuật ngữ VSAT là viết tắt của tắt của từ tiếng Anh nào sau?",
+    "option1": "Very small  aperture terminal",
+    "option2": "Vinasat satellite antenna terminal",
+    "option3": "Viettel satellite antenna terminal",
+    "option4": "Very small antenna terminal",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Tín hiệu băng gốc trong viba được xử lý tại khối nào",
+    "option1": "IDU",
+    "option2": "ODU",
+    "option3": "Cả IDU và ODU",
+    "option4": "Anten",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Tín hiệu cao tần trong viba được xử lý tại khối nào",
+    "option1": "IDU",
+    "option2": "ODU",
+    "option3": "Cả IDU và ODU",
+    "option4": "Anten",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Tín hiệu truyền trong cáp nối giữa IDU và ODU là gì",
+    "option1": "Tín hiệu băng tần gốc",
+    "option2": "Tín hiêu trung tần",
+    "option3": "Tín hiệu cao tần",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Tính từ PRC, chiều dài chuỗi đồng bộ phải đảm bảo không vượt quá bao nhiêu node",
+    "option1": 60,
+    "option2": 61,
+    "option3": 62,
+    "option4": 63,
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Tính từ SSU, chiều dài chuỗi đồng bộ phải đảm bảo không vượt quá bao nhiêu node",
+    "option1": 16,
+    "option2": 15,
+    "option3": 14,
+    "option4": 17,
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Trạm ưu tiên 1 của Viettel là các loại trạm nào",
+    "option1": "Các trạm trục truyền dẫn Bắc Nam, các tổng trạm tỉnh, huyện",
+    "option2": "Trạm phủ sóng phục vụ các cơ quan quân sự, an ninh và chính quyền",
+    "option3": "Trạm phủ sóng phục vụ bệnh viện, trung tâm y tế.",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Trong các tần số sau đây, tần số nào bị ảnh hưởng suy hao do mưa nhỏ nhất:",
+    "option1": "7 Ghz",
+    "option2": "6Ghz",
+    "option3": "15 Ghz",
+    "option4": "18 Ghz",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Trong cấu hình 1+0 SD, mỗi đầu trạm có bao nhiêu trống viba",
+    "option1": 1,
+    "option2": 2,
+    "option3": 4,
+    "option4": 3,
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Trong cấu hình 1+0, mỗi đầu trạm có bao nhiêu ODU (loại single core)",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Trong cấu hình 1+0, mỗi đầu trạm có bao nhiêu trống viba",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Trong cấu hình 2+0 SD, mỗi đầu trạm có bao nhiêu ODU (loại single core)",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Trong cấu hình 2+0 SD, mỗi đầu trạm có bao nhiêu trống viba",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Trong cấu hình 2+0 XPIC, mỗi đầu trạm có bao nhiêu ODU (loại single core)",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Trong cấu hình 2+0 XPIC, mỗi đầu trạm có bao nhiêu trống viba",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Trong cấu hình 2+0, mỗi đầu trạm có bao nhiêu ODU (loại single core)",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Trong cấu hình 2+0, mỗi đầu trạm có bao nhiêu trống viba",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Trong cấu hình 2+2  XPIC SD, mỗi đầu trạm có bao nhiêu ODU (loại single core)",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Trong cấu hình 2+2  XPIC SD, mỗi đầu trạm có bao nhiêu trống viba",
+    "option1": 1,
+    "option2": 2,
+    "option3": 3,
+    "option4": 4,
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Trong cấu trúc nào, viba tại một trạm truyền tải kết nối đồng thời về nhiều trạm đầu xa",
+    "option1": "Điểm - Điểm",
+    "option2": "Điểm - Đa điểm",
+    "option3": "Dạng chuỗi",
+    "option4": "Không có đáp án đúng",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Trong cấu trúc nào, viba tại một trạm truyền tải kết nối tới một trạm đầu xa",
+    "option1": "Điểm - Điểm",
+    "option2": "Điểm - Đa điểm",
+    "option3": "Dạng chuỗi",
+    "option4": "Không có đáp án đúng",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Trong cùng điều kiện về lượng mưa như nhau, băng tần nào sau bị ảnh hưởng suy hao do mưa lớn nhất?",
+    "option1": "C",
+    "option2": "Ku",
+    "option3": "Ka",
+    "option4": "X",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Trong cùng điều kiện về lượng mưa như nhau, băng tần nào sau bị ảnh hưởng suy hao do mưa nhỏ nhất?",
+    "option1": "C",
+    "option2": "Ku",
+    "option3": "Ka",
+    "option4": "X",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Trong thông tin vô tuyến, tổn hao truyền sóng  trong không gian tự do phụ thuộc vào tập hợp các tham số nào dưới đây:",
+    "option1": "Khoảng cách antenna phát và antenna thu, công suất của máy phát đưa vào antenna",
+    "option2": "Khoảng cách antenna phát và antenna thu, hệ số tăng ích của antenna phát và antenna thu",
+    "option3": "Khoảng cách antenna phát và antenna thu, tần số công tác",
+    "option4": "Khoảng cách antenna phát và antenna thu, công suất bức xạ đẳng hướng tương đương (EIRP)",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Tuyến viba có thể bị che chắn bởi?",
+    "option1": "Đồi núi",
+    "option2": "Nhà",
+    "option3": "Cây cối",
+    "option4": "Tất cả các phương án đều đúng",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Tỷ số lỗi bit BER được xác định bằng công thức",
+    "option1": "BER=Số bít lỗi/Tổng số bít truyền đi trong một khoảng thời gian",
+    "option2": "BER=Số bít lỗi/Tổng số bít nhận được trong một khoảng thời gian",
+    "option3": "BER=(Tổng số bít truyền đi-Tổng số bít nhận được)/Tổng số bít truyền đi",
+    "option4": "BER=Số bít lỗi/Tổng số bít giải mã được",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Underground cable generally includes a gel, powder or tape for protection from _______.",
+    "option1": "Pulling friction",
+    "option2": "Lightning strikes",
+    "option3": "Moisture",
+    "option4": "Fiber abrasion",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Ưu điểm của đồng bộ trong SDH là:",
+    "option1": "Tốc độ STM - 1 vẫn ở mức 155.52 Mbps, cho phép nhiều tín hiệu STM - 1 đồng bộ được xếp chồng lên nhau khi được ghép kênh mà không có sự nhồi bit nào",
+    "option2": "Các VC dễ dàng truy cập tại tốc độ STM-n cao hơn",
+    "option3": "Tín hiệu VC đồng bộ tốc độ thấp dễ  xen kẽ và truyền đi với tốc độ cao hơn",
+    "option4": "Các E1 được truyền đồng bộ bằng tín hiệu TU - 12 với tốc độ không đổi 2.304 Mbps",
+    "option5": "Tất cả các phương án đều đúng",
+    "correct": 5
+  },
+  {
+    "Question": "Vệ tinh địa tĩnh có độ cao so với bề mặt trái đất  bao nhiêu km?",
+    "option1": "36000km",
+    "option2": "20000km",
+    "option3": "8000km",
+    "option4": "2000km",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Vệ tinh GEO là viết tắt của vệ tinh quỹ đạo nào sau?",
+    "option1": "Vệ tinh quỹ đạo thấp",
+    "option2": "Vệ tinh quỹ đạo tầm trung",
+    "option3": "Vệ tinh địa tĩnh",
+    "option4": "Vệ tinh quỹ đạo cao",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Vệ tinh HEO là viết tắt của vệ tinh quỹ đạo nào sau?",
+    "option1": "Vệ tinh quỹ đạo thấp",
+    "option2": "Vệ tinh quỹ đạo tầm trung",
+    "option3": "Vệ tinh địa tĩnh",
+    "option4": "Vệ tinh quỹ đạo cao",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Vệ tinh LEO là viết tắt của vệ tinh quỹ đạo nào sau?",
+    "option1": "Vệ tinh quỹ đạo thấp",
+    "option2": "Vệ tinh quỹ đạo tầm trung",
+    "option3": "Vệ tinh địa tĩnh",
+    "option4": "Vệ tinh quỹ đạo cao",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Vệ tinh MEO là viết tắt của vệ tinh quỹ đạo nào sau?",
+    "option1": "Vệ tinh quỹ đạo thấp",
+    "option2": "Vệ tinh quỹ đạo tầm trung",
+    "option3": "Vệ tinh địa tĩnh",
+    "option4": "Vệ tinh quỹ đạo cao",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Vệ tinh quỹ đạo tầm  trung MEO có độ cao so với bề mặt trái đất là bao nhiêu km?",
+    "option1": "<2000Km",
+    "option2": "2000-36000km",
+    "option3": "36000km",
+    "option4": "50000km",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "Vệ tinh quỹ đạo tầm thấp LEO có độ cao so với bề mặt trái đất là bao nhiêu km?",
+    "option1": "<2000Km",
+    "option2": "2000-36000km",
+    "option3": "36000km",
+    "option4": "50000km",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "What is needed to get low loss from a prepolished/splice connector?",
+    "option1": "Good stripping technique",
+    "option2": "Good cleave",
+    "option3": "Gentle crimp",
+    "option4": "Proper cable type",
+    "option5": "",
+    "correct": 2
+  },
+  {
+    "Question": "When calculating the contribution of the fiber loss to the loss budget, one must consider the _________ .",
+    "option1": "Size of the fiber",
+    "option2": "Type of cable",
+    "option3": "Termination of the fiber",
+    "option4": "Wavelength of the light in the fiber",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "When calculating the loss budget, one should choose the component losses using ______.",
+    "option1": "Loss values from industry standards that are always worst case",
+    "option2": "Typical losses that are generally lower than standards",
+    "option3": "Either typical or standard losses as long as it's documented in the design",
+    "option4": "Lowest possible losses so the cable plant loss budget looks better",
+    "option5": "",
+    "correct": 3
+  },
+  {
+    "Question": "Which of the following fiber specifications is most important to the user and is an important factor in testing?",
+    "option1": "Attenuation",
+    "option2": "Bandwidth",
+    "option3": "Numerical aperture",
+    "option4": "Core-cladding concentricity",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Ý nào sau đây mô tả đúng tác dụng của bộ lọc quang?",
+    "option1": "Bộ lọc quang làm giảm công suất của tín hiệu quang",
+    "option2": "Bộ lọc quang chặn hoặc thông qua các bước sóng đặc biệt",
+    "option3": "Bộ lọc quang ngăn sự \"phản xạ lại\" bằng cách cho ánh sáng truyền qua theo 1 đường duy nhất",
+    "option4": "Bộ lọc quang ghép các bước sóng vào 1 sợi quang duy nhất",
+    "option5": "",
+    "correct": 4
+  },
+  {
+    "Question": "Yêu cầu về thời gian đối với khả năng phục hồi mạng?",
+    "option1": "Khả năng phục hồi của mạng được tính bằng thời gian kể từ lúc phát hiện lỗi đến lúc báo cáo lại lỗi (trong khoảng 1- 10 ms) và thời gian Switch chuyển tiếp các báo cáo lỗi đó không quá 50 ms",
+    "option2": "Khả năng phục hồi của mạng được tính bằng thời gian kể từ lúc phát hiện lỗi đến lúc báo cáo lại lỗi (trong khoảng 1- 10 phút) và thời gian Switch  chuyển tiếp các báo cáo lỗi đó không quá 50 s",
+    "option3": "Khả năng phục hồi của mạng được tính bằng thời gian kể từ lúc phát hiện lỗi đến lúc báo cáo lại lỗi trong khoảng 1 - 10 phút",
+    "option4": "Khả năng phục hồi của mạng được tính bằng  thời gian Switch  chuyển tiếp các báo cáo lỗi đó không quá 50 s",
+    "option5": "",
+    "correct": 1
+  },
+  {
+    "Question": "Yếu tố cơ bản để truyền và nhận tín hiệu quang?",
+    "option1": "Điêu chế tín hiệu quang",
+    "option2": "Nguồn phát quang",
+    "option3": "Máy thu quang",
+    "option4": "Bộ phận truyền tải quang trung gian",
+    "option5": "Tất cả các phương án đều đúng",
+    "correct": 5
+  }
+]

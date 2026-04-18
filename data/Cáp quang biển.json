@@ -1,0 +1,1042 @@
+[
+  {
+    "Question": "Effective Area\" (Aeff) của sợi quang lớn có ưu điểm gì trong truyền dẫn Coherent?",
+    "option1": "Làm sợi quang to hơn và bền hơn",
+    "option2": "Cho phép đưa công suất tín hiệu cao hơn vào sợi quang mà ít bị nhiễu phi tuyến",
+    "option3": "Giảm độ trễ Latency",
+    "option4": "Tăng khả năng chịu nhiệt",
+    "correct": 2
+  },
+  {
+    "Question": "Factory Acceptance Test\" (FAT) cho khối ướt tập trung vào việc kiểm tra độ bền của thành phần nào để đảm bảo tuổi thọ 25 năm?",
+    "option1": "Tốc độ của bộ vi xử lý trong bộ quản lý trạm",
+    "option2": "Các điểm hàn nối sợi quang (Splices) và độ kín của vỏ bảo vệ bộ lặp (Pressure Housing)",
+    "option3": "Công suất tiêu thụ của hệ thống điều hòa trạm CLS",
+    "option4": "Độ sáng của đèn Laser trong bộ truyền dẫn",
+    "correct": 2
+  },
+  {
+    "Question": "Final Acceptance\" là mốc kết thúc của giai đoạn nào?",
+    "option1": "Lập kế hoạch",
+    "option2": "Xây dựng và bàn giao (Phase 3)",
+    "option3": "Vận hành và bảo trì",
+    "option4": "Khảo sát tuyến",
+    "correct": 2
+  },
+  {
+    "Question": "Gain Equalizer\" thường được đặt ở đâu?,",
+    "option1": "Tại trạm cập bờ CLS",
+    "option2": "Bên trong các bộ lặp hoặc mối nối đặc biệt",
+    "option3": "Trong hố ga BMH",
+    "option4": "Tại PoP của khách hàng",
+    "correct": 2
+  },
+  {
+    "Question": "Gain Flatness\" trong bộ lặp ảnh hưởng như thế nào đến hệ thống WDM dài?",
+    "option1": "Làm cáp nhanh hỏng hơn",
+    "option2": "Nếu không phẳng, nhiễu ASE sẽ tích lũy và lấn át tín hiệu ở một số bước sóng",
+    "option3": "Tăng tốc độ truyền dẫn",
+    "option4": "Giảm nhiệt độ thiết bị",
+    "correct": 2
+  },
+  {
+    "Question": "Generalised Droop\" (0.1 dB) trong bảng tính Open Cable Budget phản ánh hiện tượng kỹ thuật nào?",
+    "option1": "Sự sụt giảm dòng điện nuôi do điện trở cáp",
+    "option2": "Sự suy giảm công suất quang tích lũy theo tần số qua nhiều trạm khuếch đại liên tiếp",
+    "option3": "Sự mất mát tín hiệu tại các điểm hàn nối cơ khí",
+    "option4": "Hiện tượng tán sắc chế độ phân cực (PMD)",
+    "correct": 2
+  },
+  {
+    "Question": "Joint\" trong hệ thống cáp biển có chức năng gì?",
+    "option1": "Khuếch đại tín hiệu",
+    "option2": "Tách/nhập bước sóng",
+    "option3": "Kết nối cơ khí, điện và quang giữa các đoạn cáp",
+    "option4": "Chuyển đổi tín hiệu điện-quang",
+    "correct": 3
+  },
+  {
+    "Question": "Power Switched BU\" cho phép thực hiện thao tác gì từ xa?",
+    "option1": "Thay đổi tốc độ Internet",
+    "option2": "Thay đổi đường đi của dòng điện nuôi nguồn sang các nhánh khác",
+    "option3": "Tắt đèn tại trạm cập bờ",
+    "option4": "Khởi động lại SLTE",
+    "correct": 2
+  },
+  {
+    "Question": "Ship-Repairs\" dự kiến cho một hệ thống cáp biển trong 25 năm thường là bao nhiêu lỗi?",
+    "option1": "Khoảng 50 lỗi",
+    "option2": "Ít hơn 2 lỗi do linh kiện thiết bị",
+    "option3": "Không có lỗi nào",
+    "option4": "Trung bình 1 lỗi mỗi năm",
+    "correct": 2
+  },
+  {
+    "Question": "Spectral Efficiency\" (Hiệu suất phổ) được đo bằng đơn vị nào?",
+    "option1": "dBm",
+    "option2": "bit/s/Hz",
+    "option3": "km",
+    "option4": "Watts",
+    "correct": 2
+  },
+  {
+    "Question": "Stub\" trong bộ chia nhánh BU dùng để làm gì?",
+    "option1": "Để nối đất",
+    "option2": "Chờ sẵn để kết nối trạm nhánh trong tương lai",
+    "option3": "Để khuếch đại tín hiệu",
+    "option4": "Để chặn dòng điện",
+    "correct": 2
+  },
+  {
+    "Question": "Zener Diode\" trong bộ lặp có vai trò gì trong hệ thống cấp nguồn?",
+    "option1": "Chuyển đổi AC sang DC",
+    "option2": "Ổn định điện áp cho các linh kiện khuếch đại bên trong bộ lặp",
+    "option3": "Ngắt dòng điện khi quá tải",
+    "option4": "Tăng dòng điện nuôi",
+    "correct": 2
+  },
+  {
+    "Question": "ASE (Amplified Spontaneous Emission) là loại nhiễu phát sinh từ đâu?",
+    "option1": "Từ nguồn điện PFE",
+    "option2": "Từ các bộ khuếch đại quang (EDFA)",
+    "option3": "Từ ánh sáng mặt trời",
+    "option4": "Từ ma sát dòng nước",
+    "correct": 2
+  },
+  {
+    "Question": "BMH (Beach Manhole) là điểm kết nối giữa hai thành phần nào?",
+    "option1": "Cáp biển và cáp đất liền",
+    "option2": "Bộ lặp và cáp",
+    "option3": "SLTE và PFE",
+    "option4": "BU và trạm nhánh",
+    "correct": 1
+  },
+  {
+    "Question": "Bộ lặp (Repeater) trong hệ thống cáp biển sử dụng loại bộ khuếch đại nào?",
+    "option1": "Bộ tái sinh tín hiệu (Regenerator)",
+    "option2": "Bộ khuếch đại quang (Optical Amplifier)",
+    "option3": "Bộ khuếch đại điện tử",
+    "option4": "Bộ chuyển đổi OEO",
+    "correct": 2
+  },
+  {
+    "Question": "Bước sóng tiêu chuẩn thường dùng trong truyền dẫn cáp biển là bao nhiêu?",
+    "option1": "850 nm",
+    "option2": "1310 nm",
+    "option3": "1550 nm",
+    "option4": "1625 nm",
+    "correct": 3
+  },
+  {
+    "Question": "Cáp \"Double Armor\" thường dùng ở vùng nước như thế nào?,",
+    "option1": "Vùng biển sâu > 2500m",
+    "option2": "Vùng nước nông, địa hình đá/hiểm trở",
+    "option3": "Trong đất liền",
+    "option4": "Trên mặt biển",
+    "correct": 2
+  },
+  {
+    "Question": "Cấu trúc mạng kết nối các trạm cập bờ dọc theo cùng một bờ biển được gọi là gì?",
+    "option1": "Point-to-Point",
+    "option2": "Ring",
+    "option3": "Mesh",
+    "option4": "Festoon",
+    "correct": 4
+  },
+  {
+    "Question": "Chế độ cấp nguồn \"Single-end powering\" thường được sử dụng trong tình huống nào?,",
+    "option1": "Hoạt động bình thường hàng ngày",
+    "option2": "Khi một đầu trạm PFE bị lỗi hoặc bảo trì",
+    "option3": "Tuyến cáp quá dài",
+    "option4": "Khi tất cả bộ lặp bị hỏng",
+    "correct": 2
+  },
+  {
+    "Question": "Chế độ quản lý \"TOP\" (Total Output Power) trong bộ lặp có ý nghĩa gì?",
+    "option1": "Luôn chạy ở công suất tối đa của Laser",
+    "option2": "Duy trì tổng công suất quang đầu ra không đổi bất kể số lượng kênh",
+    "option3": "Tự động tắt khi có lỗi",
+    "option4": "Quản lý nhiệt độ của bộ khuếch đại",
+    "correct": 2
+  },
+  {
+    "Question": "Chỉ số dBQ (Q-factor) trong Performance Budget dùng để đánh giá điều gì?",
+    "option1": "Tổng công suất tiêu thụ điện",
+    "option2": "Chất lượng tín hiệu và tỷ lệ lỗi bit (BER)",
+    "option3": "Độ sâu lắp đặt tối ưu",
+    "option4": "Hiệu quả của hệ thống làm mát",
+    "correct": 2
+  },
+  {
+    "Question": "Chỉ số Q-Factor thực tế thường thấp hơn dự báo lý thuyết (BOL Average) do yếu tố \"Manufacturing Margin\". Thông số này bao gồm những gì?",
+    "option1": "Sự hao hụt công suất tại các đầu nối ODF",
+    "option2": "Sự sai lệch thông số giữa các sợi quang trong quá trình sản xuất hàng loạt so với mẫu thử",
+    "option3": "Nhiễu phát sinh từ thiết bị đo của nhà máy",
+    "option4": "Do sự thay đổi độ ẩm trong quá trình đóng gói cáp",
+    "correct": 2
+  },
+  {
+    "Question": "Chức năng \"Line Loading\" (ASE Noise Holders) của Ciena SLTE có vai trò gì trong việc bảo vệ các kênh lưu lượng đang hoạt động?",
+    "option1": "Dùng để kiểm tra sợi quang khi không có khách hàng",
+    "option2": "Giữ cho tổng công suất quang vào bộ lặp ổn định khi thêm/bớt kênh, tránh hiện tượng \"Power Surge\" gây lỗi",
+    "option3": "Nhằm tăng OSNR cho các kênh ở biên phổ",
+    "option4": "Để phát hiện vị trí đứt cáp bằng tín hiệu nhiễu",
+    "correct": 2
+  },
+  {
+    "Question": "Chức năng \"Line Loading\" trong mô hình Open Gateway dùng để làm gì?",
+    "option1": "Tăng trọng lượng cho cáp",
+    "option2": "Duy trì tải quang ổn định khi các kênh SLTE chưa được trang bị đầy đủ",
+    "option3": "Nạp dữ liệu vào SLTE",
+    "option4": "Kiểm tra tải trọng của tàu",
+    "correct": 2
+  },
+  {
+    "Question": "Chức năng \"Optical bypass switching\" trong bộ chia nhánh BU thế hệ mới có ưu điểm gì?",
+    "option1": "Tự động hàn nối cáp",
+    "option2": "Landing trạm nhánh mà không gây gián đoạn luồng lưu lượng chính (express)",
+    "option3": "Chuyển đổi tín hiệu quang sang điện",
+    "option4": "Giảm suy hao của BU xuống 0dB",
+    "correct": 2
+  },
+  {
+    "Question": "Công nghệ \"Coherent Detection\" cải thiện hiệu suất truyền dẫn như thế nào?",
+    "option1": "Tăng công suất đèn Laser",
+    "option2": "Sử dụng cả biên độ, pha và phân cực của ánh sáng để mang thông tin",
+    "option3": "Giảm số lượng sợi quang cần thiết",
+    "option4": "Loại bỏ hoàn toàn nhiễu ASE",
+    "correct": 2
+  },
+  {
+    "Question": "Công nghệ \"Repeater Pump Farming\" là gì?",
+    "option1": "Trồng các cảm biến quanh bộ lặp",
+    "option2": "Chia sẻ nguồn bơm Laser giữa nhiều cặp sợi quang để tăng độ tin cậy",
+    "option3": "Thu thập năng lượng từ sóng biển",
+    "option4": "Sử dụng nhiều bộ lặp sát nhau",
+    "correct": 2
+  },
+  {
+    "Question": "Công nghệ SDM giúp giải quyết vấn đề gì khi WDM chạm tới giới hạn Shannon?",
+    "option1": "Tăng tốc độ bước sóng lên vô hạn",
+    "option2": "Mở rộng dung lượng theo chiều không gian (tăng số cặp sợi)",
+    "option3": "Giảm số lượng trạm cập bờ",
+    "option4": "Giảm suy hao của sợi quang",
+    "correct": 2
+  },
+  {
+    "Question": "Công nghệ WDM được sử dụng trong cáp biển có mục đích gì?",
+    "option1": "Tăng công suất nguồn điện",
+    "option2": "Giảm suy hao sợi quang",
+    "option3": "Ghép nhiều bước sóng trên cùng một sợi quang",
+    "option4": "Chống nhiễu điện từ",
+    "correct": 3
+  },
+  {
+    "Question": "C-OTDR khác OTDR thông thường ở điểm nào?,",
+    "option1": "Chỉ đo được đoạn ngắn",
+    "option2": "Có khả năng đo xuyên qua các bộ khuếch đại",
+    "option3": "Không cần nguồn điện",
+    "option4": "Sử dụng sóng siêu âm",
+    "correct": 2
+  },
+  {
+    "Question": "Điện áp cung cấp bởi PFE có thể lên tới mức nào?",
+    "option1": "220 V",
+    "option2": "1000 V",
+    "option3": "15.000 V",
+    "option4": "48 V",
+    "correct": 3
+  },
+  {
+    "Question": "Đơn vị \"Fiber Pair\" (FP) trong cáp biển bao gồm bao nhiêu sợi quang?",
+    "option1": "1 sợi",
+    "option2": "2 sợi",
+    "option3": "4 sợi",
+    "option4": "8 sợi",
+    "correct": 2
+  },
+  {
+    "Question": "Dữ liệu \"Seismic Reflection\" trong khảo sát biển giúp xác định yếu tố gì?",
+    "option1": "Độ mặn của nước",
+    "option2": "Cấu trúc các lớp địa chất dưới đáy biển",
+    "option3": "Vị trí các đàn cá",
+    "option4": "Tốc độ dòng hải lưu",
+    "correct": 2
+  },
+  {
+    "Question": "Giai đoạn nào thực hiện khảo sát chi tiết để xác định tuyến cáp thực tế dưới đáy biển?",
+    "option1": "Planning",
+    "option2": "Route Survey",
+    "option3": "Manufacturing",
+    "option4": "Marine Installation",
+    "correct": 2
+  },
+  {
+    "Question": "Giới hạn Shannon (Shannon Limit) có ý nghĩa gì trong thiết kế dung lượng?",
+    "option1": "Giới hạn độ sâu của cáp",
+    "option2": "Giới hạn lý thuyết tối đa của thông tin trên một kênh truyền",
+    "option3": "Giới hạn dòng điện nuôi nguồn",
+    "option4": "Giới hạn số lượng trạm cập bờ",
+    "correct": 2
+  },
+  {
+    "Question": "Hệ thống cáp biển không có bộ khuếch đại giữa các trạm được gọi là gì?",
+    "option1": "Hệ thống trục (Trunk)",
+    "option2": "Hệ thống Ring",
+    "option3": "Hệ thống không bộ lặp (Repeaterless)",
+    "option4": "Hệ thống Hybrid",
+    "correct": 3
+  },
+  {
+    "Question": "Hệ thống Multibeam dùng trong khảo sát tuyến biển để đo yếu tố gì?",
+    "option1": "Cường độ dòng điện",
+    "option2": "Độ sâu địa hình đáy biển (Bathymetry)",
+    "option3": "Nhiệt độ nước biển",
+    "option4": "Từ tính của đáy biển",
+    "correct": 2
+  },
+  {
+    "Question": "Hệ thống NMS/EMS hỗ trợ các chức năng nào sau đây?",
+    "option1": "Cấp nguồn cho cáp",
+    "option2": "Giám sát hiệu suất, cảnh báo và bảo trì",
+    "option3": "Khảo sát tuyến biển",
+    "option4": "Chôn cáp dưới đáy biển",
+    "correct": 2
+  },
+  {
+    "Question": "Hiện tượng \"Shunt Fault\" gây ra hậu quả gì cho hệ thống cấp nguồn?",
+    "option1": "Tín hiệu quang bị mất hoàn toàn",
+    "option2": "Dòng điện bị rò rỉ xuống biển qua lớp vỏ hỏng",
+    "option3": "Điện áp PFE tăng đột ngột",
+    "option4": "Bộ lặp hoạt động mạnh hơn",
+    "correct": 2
+  },
+  {
+    "Question": "Hiệu suất phổ (Spectral Efficiency) trong công thức Shannon C=2⋅B⋅log2​(1+SNR) bị giới hạn thực tế bởi yếu tố phi tuyến nào trên cáp biển?",
+    "option1": "Suy hao của sợi quang Pure Silica Core",
+    "option2": "Hiệu ứng Kerr gây nhiễu pha tự điều chế (SPM) và trộn bước sóng khi công suất tăng cao",
+    "option3": "Hiện tượng tán sắc màu tích lũy quá lớn",
+    "option4": "Nhiễu nhiệt tại các bộ khuếch đại đầu cuối",
+    "correct": 2
+  },
+  {
+    "Question": "Hiệu ứng \"Polarization Mode Dispersion\" (PMD) gây ra hiện tượng gì?",
+    "option1": "Ánh sáng bị đổi màu",
+    "option2": "Xung ánh sáng bị trải rộng do tốc độ khác nhau trên các trục phân cực",
+    "option3": "Ánh sáng bị phản xạ ngược lại",
+    "option4": "Làm nóng sợi quang",
+    "correct": 2
+  },
+  {
+    "Question": "Hiệu ứng phi tuyến (Non-linear effects) trong sợi quang thường xảy ra khi nào?,",
+    "option1": "Khi cáp bị bẻ cong",
+    "option2": "Khi công suất quang đưa vào sợi quang quá lớn",
+    "option3": "Khi nhiệt độ biển giảm xuống 0 độ",
+    "option4": "Khi dòng điện PFE bị ngắt",
+    "correct": 2
+  },
+  {
+    "Question": "ITU-T G.654 là tiêu chuẩn sợi quang có đặc điểm gì nổi bật?",
+    "option1": "Sợi quang đa mốt",
+    "option2": "Sợi quang có diện tích hiệu dụng lớn, suy hao cực thấp",
+    "option3": "Sợi quang dịch tán sắc",
+    "option4": "Sợi quang cho mạng LAN",
+    "correct": 2
+  },
+  {
+    "Question": "Khái niệm \"Geometric Margin\" (GSNR) trong thiết kế Ciena dùng để làm gì?",
+    "option1": "Đo độ dài của tuyến cáp",
+    "option2": "Đánh giá tổng hợp nhiễu ASE và nhiễu phi tuyến",
+    "option3": "Tính toán số lượng tàu sửa cáp",
+    "option4": "Xác định vị trí lỗi cáp",
+    "correct": 2
+  },
+  {
+    "Question": "Khái niệm \"Lit Capacity\" nghĩa là gì?,",
+    "option1": "Dung lượng thiết kế tối đa",
+    "option2": "Dung lượng thực tế đã được trang bị thiết bị",
+    "option3": "Số lượng sợi quang trong cáp",
+    "option4": "Dung lượng của sợi quang dự phòng",
+    "correct": 2
+  },
+  {
+    "Question": "Khi sửa chữa cáp ở vùng nước sâu, tại sao phải cắt cáp làm hai đầu?",
+    "option1": "Để dễ tìm lỗi hơn",
+    "option2": "Để giải tỏa sức căng (tension) trước khi kéo cáp lên tàu",
+    "option3": "Theo quy định của luật biển",
+    "option4": "Để tiết kiệm dây cáp",
+    "correct": 2
+  },
+  {
+    "Question": "Khi thay thế thiết bị đầu cuối SLTE thế hệ cũ bằng WaveLogic 5 Extreme, tại sao có thể bỏ qua thiết bị \"PMD Compensator\"?",
+    "option1": "Vì cáp biển không bị ảnh hưởng bởi hiện tượng PMD",
+    "option2": "Vì các modem Coherent hiện đại có khả năng bù PMD cực lớn bằng thuật toán DSP trong miền kỹ thuật số",
+    "option3": "Do sợi quang đời mới đã triệt tiêu hoàn toàn PMD",
+    "option4": "Vì PMD chỉ xảy ra trên các tuyến cáp đất liền",
+    "correct": 2
+  },
+  {
+    "Question": "Khi xảy ra lỗi Shunt Fault tại vị trí sát một đầu trạm PFE, tại sao điện áp tại trạm đối diện lại tăng lên gần gấp đôi so với điều kiện bình thường?",
+    "option1": "Do sự phản xạ điện áp tại điểm ngắn mạch",
+    "option2": "Vì trạm đối diện phải gánh toàn bộ dòng điện nuôi cho cả tuyến cáp đến điểm lỗi (Single-end powering)",
+    "option3": "Do hiện tượng cảm ứng điện từ từ dòng hải lưu",
+    "option4": "Để duy trì công suất quang không đổi tại bộ lặp cuối cùng",
+    "correct": 2
+  },
+  {
+    "Question": "Loại cáp nào được thiết kế để sử dụng ở độ sâu lớn hơn 2500m?",
+    "option1": "Cáp Lightweight (LW)",
+    "option2": "Cáp Single Armor (SA)",
+    "option3": "Cáp Double Armor (DA)",
+    "option4": "Cáp Rock Armor (RA)",
+    "correct": 1
+  },
+  {
+    "Question": "Lớp vỏ bảo vệ \"Armor\" của cáp biển thường được làm bằng vật liệu gì?",
+    "option1": "Nhựa PE",
+    "option2": "Thép",
+    "option3": "Đồng",
+    "option4": "Nhôm",
+    "correct": 2
+  },
+  {
+    "Question": "Magnetometer trong khảo sát biển dùng để phát hiện vật gì?",
+    "option1": "Độ sâu của nước",
+    "option2": "Các vật thể bằng kim loại (cáp cũ, đường ống)",
+    "option3": "Sinh vật biển",
+    "option4": "Loại đất nền đáy biển",
+    "correct": 2
+  },
+  {
+    "Question": "Mục đích của \"Marine Route Survey\" giai đoạn lắp đặt là gì?",
+    "option1": "Để đo nhiệt độ nước",
+    "option2": "Kiểm tra lại tuyến lần cuối và xác định chướng ngại vật mới phát sinh",
+    "option3": "Để câu cá cho thủy thủ",
+    "option4": "Để quảng cáo dự án",
+    "correct": 2
+  },
+  {
+    "Question": "Mục đích của việc sử dụng \"Large effective area fiber\" trong thiết kế hệ thống 100G+ là gì?",
+    "option1": "Để sợi quang bền hơn",
+    "option2": "Giảm mật độ công suất để giảm hiệu ứng phi tuyến",
+    "option3": "Để dễ hàn nối hơn",
+    "option4": "Để chứa được nhiều bước sóng hơn",
+    "correct": 2
+  },
+  {
+    "Question": "Nghiên cứu DTS (Desk Top Study) được thực hiện ở giai đoạn nào?",
+    "option1": "Giai đoạn Lập kế hoạch (Phase 1)",
+    "option2": "Giai đoạn Phát triển dự án (Phase 2)",
+    "option3": "Giai đoạn Xây dựng (Phase 3)",
+    "option4": "Giai đoạn Vận hành (Phase 4)",
+    "correct": 2
+  },
+  {
+    "Question": "NZDSF là loại sợi quang gì?",
+    "option1": "Sợi quang đa mốt",
+    "option2": "Sợi quang dịch tán sắc phi không",
+    "option3": "Sợi quang không suy hao",
+    "option4": "Sợi quang bằng nhựa",
+    "correct": 2
+  },
+  {
+    "Question": "ODF (Optical Distribution Frame) thuộc khối nào?",
+    "option1": "Wet Plant",
+    "option2": "Dry Plant",
+    "option3": "POP",
+    "option4": "BMH",
+    "correct": 2
+  },
+  {
+    "Question": "Phương pháp \"Fault Locating\" bằng dòng điện (DC) thường dùng để tìm loại lỗi nào?",
+    "option1": "Lỗi đứt sợi quang",
+    "option2": "Lỗi hỏng lớp cách điện (Shunt fault) hoặc đứt lõi đồng",
+    "option3": "Lỗi phần mềm NMS",
+    "option4": "Lỗi quá nhiệt trạm CLS",
+    "correct": 2
+  },
+  {
+    "Question": "Power Feed Equipment (PFE) cung cấp dòng điện loại nào?,",
+    "option1": "Dòng điện xoay chiều (AC)",
+    "option2": "Dòng điện không đổi (Constant Current)",
+    "option3": "Điện áp không đổi (Constant Voltage)",
+    "option4": "Dòng điện biến đổi",
+    "correct": 2
+  },
+  {
+    "Question": "Robot ROV được sử dụng chính trong nhiệm vụ nào?",
+    "option1": "Kéo tàu cáp",
+    "option2": "Chôn cáp hoặc kiểm tra dưới nước",
+    "option3": "Hàn nối sợi quang",
+    "option4": "Phát tín hiệu LME",
+    "correct": 2
+  },
+  {
+    "Question": "Sự khác biệt chính giữa sợi quang P-Type (Pure Silica Core) và sợi tiêu chuẩn là gì?",
+    "option1": "Được làm bằng nhựa",
+    "option2": "Có suy hao thấp hơn và diện tích hiệu dụng lớn hơn",
+    "option3": "Không dẫn điện",
+    "option4": "Chỉ truyền được một bước sóng",
+    "correct": 2
+  },
+  {
+    "Question": "Sự khác biệt giữa \"Pre-emphasis\" và \"Equalization\" trong truyền dẫn quang?",
+    "option1": "Là một kỹ thuật giống nhau",
+    "option2": "Pre-emphasis chỉnh tại đầu phát, Equalization chỉnh dọc đường hoặc đầu thu",
+    "option3": "Pre-emphasis chỉ dùng cho nguồn điện",
+    "option4": "Equalization chỉ dùng cho cơ khí",
+    "correct": 2
+  },
+  {
+    "Question": "Sự khác biệt giữa thiết kế cáp biển \"Repeatered\" và \"Repeaterless\" về mặt cấp nguồn?",
+    "option1": "Repeaterless cần nhiều điện hơn",
+    "option2": "Repeaterless không cần nguồn nuôi cho Wet Plant, Repeatered cần PFE công suất lớn",
+    "option3": "Repeatered dùng pin năng lượng mặt trời",
+    "option4": "Cả hai đều dùng nguồn AC",
+    "correct": 2
+  },
+  {
+    "Question": "Sự khác biệt về mặt vận hành giữa \"Fixed OADM\" và \"WSS ROADM\" trong bộ chia nhánh dưới biển là gì?",
+    "option1": "Fixed OADM có độ trễ (latency) thấp hơn",
+    "option2": "ROADM cho phép cấu hình lại phổ quang từ xa để tối ưu hóa lưu lượng mà không cần can thiệp phần cứng dưới biển",
+    "option3": "Fixed OADM không tiêu thụ điện năng từ hệ thống PFE",
+    "option4": "ROADM chỉ hoạt động được trên các sợi quang P-type",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao biên độ dự phòng \"Aging & Repairs\" (1.7 dB) lại chiếm tỷ trọng lớn trong bảng tính ngân sách Open Cable?",
+    "option1": "Do sai số của các thiết bị đo quang tại trạm",
+    "option2": "Để bù đắp cho sự suy giảm OSNR do lão hóa linh kiện bộ lặp và tổn hao tích lũy từ các mối hàn sửa chữa trong tương lai",
+    "option3": "Nhằm dự phòng cho việc tăng thêm số lượng bước sóng",
+    "option4": "Để bù đắp cho sự biến động nhiệt độ nước biển theo mùa",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao các hệ thống cáp biển hiện đại (sau 2014) lại chuyển sang thiết kế \"Uncompensated\"?",
+    "option1": "Để giảm số lượng bộ lặp",
+    "option2": "Do công nghệ Coherent xử lý tán sắc bằng điện tử tại SLTE",
+    "option3": "Để tăng dòng điện nuôi nguồn",
+    "option4": "Vì sợi quang cũ không còn sản xuất",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao các hệ thống Coherent hiện đại không còn cần \"Dispersion Compensating Fiber\" (DCF)?",
+    "option1": "Vì tán sắc không còn tồn tại",
+    "option2": "Vì các thuật toán DSP trong modem có thể bù hàng chục ngàn ps/nm tán sắc",
+    "option3": "Vì sợi quang mới không bị tán sắc",
+    "option4": "Vì tốc độ 100G không bị ảnh hưởng",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao cần thực hiện \"Factory Audit\" trước khi bàn giao thiết bị cáp biển?",
+    "option1": "Để kiểm kê tài sản",
+    "option2": "Đảm bảo quy trình sản xuất và chất lượng sản phẩm đáp ứng tiêu chuẩn khắt khe",
+    "option3": "Để đóng gói hàng hóa",
+    "option4": "Để đào tạo nhân viên nhà máy",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao cấu trúc mạng Mesh lại có độ sẵn sàng (Availability) cao hơn mạng P2P?,",
+    "option1": "Sử dụng ít cáp hơn",
+    "option2": "Có nhiều đường đi dự phòng giữa hai điểm kết nối",
+    "option3": "Không cần bộ lặp",
+    "option4": "Thiết bị đầu cuối rẻ hơn",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao chỉ số GSNR (Geometric Signal-to-Noise Ratio) chỉ được coi là hợp lệ cho các hệ thống \"New Open Cables\" uncompensated?",
+    "option1": "Vì sợi quang cũ không hỗ trợ đo GSNR",
+    "option2": "Vì GSNR giả định nhiễu ASE và NLI có tính chất cộng hưởng trong môi trường tán sắc cao của công nghệ Coherent",
+    "option3": "Do các modem cũ không có thuật toán DSP để tính toán GSNR",
+    "option4": "Vì các hệ thống cũ có biên độ dự phòng Aging quá thấp",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao hệ thống cấp nguồn cáp biển phải tuân thủ nghiêm ngặt trình tự \"Voltage Ramping\" (tăng áp dần dần) khi khởi động?",
+    "option1": "Để tiết kiệm điện năng cho trạm CLS",
+    "option2": "Để tránh sốc điện gây hỏng các diode Zener trong các bộ lặp và đảm bảo dòng điện hằng ổn định",
+    "option3": "Nhằm cho phép các bộ khuếch đại quang ấm lên từ từ",
+    "option4": "Để đồng bộ hóa dữ liệu quản lý NMS giữa hai đầu trạm",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao hệ thống cấp nguồn phải dùng \"Constant Current\" (Dòng không đổi)?",
+    "option1": "Để tiết kiệm điện",
+    "option2": "Để đảm bảo mọi bộ lặp trên tuyến đều nhận được cùng một mức năng lượng",
+    "option3": "Để tránh cháy cáp",
+    "option4": "Theo tiêu chuẩn dân dụng",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao hệ thống nối đất (Sea Earth) lại cực kỳ quan trọng cho PFE?,",
+    "option1": "Để chống sét",
+    "option2": "Để tạo mạch kín cho dòng điện đi qua đại dương",
+    "option3": "Để làm mát thiết bị",
+    "option4": "Để kết nối Internet",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao hệ thống Repeaterless lại cần sử dụng bộ khuếch đại Raman công suất cao?",
+    "option1": "Để cấp nguồn cho trạm đầu xa",
+    "option2": "Để đạt được cự ly truyền dẫn xa (>300km) mà không cần thiết bị dưới biển",
+    "option3": "Để giảm chi phí SLTE",
+    "option4": "Để thay thế hoàn toàn sợi quang",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao khi nâng cấp hệ thống 10G cũ lên 100G Coherent, sự hiện diện của các kênh 10G OOK lại gây hại cho các kênh 100G?",
+    "option1": "Vì kênh 10G chiếm dụng toàn bộ băng thông C-band",
+    "option2": "Do hiện tượng nhiễu pha chéo (XPM) từ tín hiệu OOK biên độ mạnh ảnh hưởng trực tiếp đến pha của tín hiệu Coherent",
+    "option3": "Do kênh 10G tiêu thụ nhiều điện năng của bộ lặp hơn",
+    "option4": "Vì các kênh 10G có độ trễ (latency) thấp hơn 100G",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao khi sửa chữa cáp ở vùng nước sâu bằng robot ROV, việc \"Sectionalization\" (phân đoạn lỗi) từ trạm cập bờ lại quan trọng trước khi tàu ra khơi?",
+    "option1": "Để kiểm tra xem cáp có bị cá mập cắn hay không",
+    "option2": "Để xác định chính xác vị trí lỗi, giúp tàu cáp tiết kiệm thời gian tìm kiếm và chọn loại grapnel/ROV phù hợp",
+    "option3": "Nhằm xin giấy phép đi vào lãnh hải của quốc gia khác",
+    "option4": "Để đảm bảo dòng điện PFE đã được tắt hoàn toàn",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao lỗi ở vùng nước nông (Shallow water) thường xảy ra nhiều hơn nước sâu?",
+    "option1": "Do áp suất nước lớn",
+    "option2": "Do các hoạt động đánh bắt cá và tàu bè neo đậu phổ biến",
+    "option3": "Do cá mập tập trung nhiều hơn",
+    "option4": "Do sóng biển mạnh làm đứt cáp",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao mốc \"Ready For Service\" (RFS) chỉ được công nhận sau khi hoàn thành \"Network Readiness Test\" kéo dài nhiều ngày?",
+    "option1": "Để kiểm tra xem tàu cá có làm đứt cáp hay không",
+    "option2": "Để chứng minh độ ổn định của hệ thống về tỷ lệ lỗi bit (BER) và các biên độ dự phòng Q-margin dưới tải thực tế",
+    "option3": "Nhằm đào tạo nhân viên vận hành trạm CLS",
+    "option4": "Theo yêu cầu của công ty bảo hiểm hàng hải",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao phải thực hiện \"Post-lay Inspection\" sau khi đặt cáp?",
+    "option1": "Để chụp ảnh lưu niệm",
+    "option2": "Để đảm bảo cáp đã được chôn đúng độ sâu và không bị hư hại",
+    "option3": "Để kiểm tra độ mặn của nước",
+    "option4": "Để tính tiền cho nhà thầu",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao sợi quang dịch tán sắc (DSF) lại không phù hợp cho hệ thống WDM đa kênh?",
+    "option1": "Suy hao quá lớn",
+    "option2": "Gây ra hiệu ứng trộn bốn bước sóng (FWM) rất mạnh",
+    "option3": "Không chịu được áp suất cao",
+    "option4": "Giá thành quá đắt",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao sợi quang G.654.E lại được ưu tiên cho các tuyến trans-oceanic dài?",
+    "option1": "Vì nó rẻ nhất",
+    "option2": "Vì có suy hao cực thấp (0.15-0.17 dB/km) và diện tích hiệu dụng lớn",
+    "option3": "Vì nó có màu đẹp",
+    "option4": "Vì nó dễ uốn cong hơn",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao sợi quang ULL (Ultra Low Loss) với suy hao < 0.15 dB/km lại trở thành thành phần then chốt cho thiết kế SDM?",
+    "option1": "Để tăng độ bền cơ học cho cáp khi đặt ở độ sâu lớn",
+    "option2": "Để cho phép giảm TOP nhưng vẫn duy trì OSNR chấp nhận được qua các chặng lặp dài",
+    "option3": "Vì sợi ULL có khả năng chống lại hiện tượng GAWBS tốt hơn",
+    "option4": "Do sợi ULL có chi phí sản xuất thấp hơn sợi tiêu chuẩn",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao tài liệu \"Desk Top Study\" (DTS) lại được coi là tài liệu \"sống\" và phải cập nhật liên tục cho đến khi lắp đặt?",
+    "option1": "Vì nó là yêu cầu bắt buộc của UNCLOS",
+    "option2": "Để phản ánh các thay đổi về hoạt động hàng hải, chướng ngại vật mới và quy định pháp lý tại các vùng biển đi qua",
+    "option3": "Nhằm thay đổi nhà cung cấp thiết bị vào phút chót",
+    "option4": "Để cập nhật giá thành sản xuất cáp theo thị trường",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao tán sắc màu (Chromatic Dispersion) tích lũy lớn (>100.000 ps/nm) lại là môi trường lý tưởng cho công nghệ truyền dẫn Coherent 100G+?",
+    "option1": "Vì nó giúp ánh sáng đi nhanh hơn trong sợi quang",
+    "option2": "Vì tán sắc lớn giúp giảm thiểu hiệu ứng trộn bốn bước sóng (FWM) và các tương tác phi tuyến giữa các kênh",
+    "option3": "Do thuật toán DSP chỉ có thể hoạt động khi có tán sắc",
+    "option4": "Vì nó làm giảm nhiễu ASE của bộ khuếch đại",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao thiết bị lặp (Repeater) trong hệ thống cáp biển hiện đại thường không có vòng lặp phản hồi (feedback loop) để điều chỉnh công suất bơm Laser?",
+    "option1": "Do bộ khuếch đại EDFA có khả năng tự cân bằng",
+    "option2": "Để tối giản hóa thiết kế nhằm đạt độ tin cậy cực cao trong 25 năm; thay vào đó sử dụng kênh Idler để quản lý TOP",
+    "option3": "Vì hệ thống Coherent không nhạy cảm với sự thay đổi công suất",
+    "option4": "Do các bộ lặp được nuôi bằng dòng điện không đổi nên công suất luôn cố định",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao trong bảng tính Performance, biên độ \"Pre-emphasis Margin\" lại quan trọng đối với các hệ thống WDM có phổ rộng?",
+    "option1": "Để tăng cường công suất cho các kênh bị đứt",
+    "option2": "Để điều chỉnh công suất phát khác nhau giữa các kênh nhằm đạt được SNR đồng đều tại đầu nhận",
+    "option3": "Nhằm mục đích giám sát chất lượng tín hiệu từ xa",
+    "option4": "Để bù đắp cho sự tán sắc màu tích lũy",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao trong kỷ nguyên SDM, việc tối ưu hóa tổng dung lượng cáp lại ưu tiên giảm công suất TOP trên mỗi sợi quang?",
+    "option1": "Để tăng OSNR tại đầu thu",
+    "option2": "Để hoạt động ở vùng tuyến tính của sợi quang, tránh hình phạt phi tuyến (NLI) và tối ưu hóa hiệu suất điện",
+    "option3": "Để tiết kiệm chi phí mua bộ lặp",
+    "option4": "Nhằm tận dụng tối đa băng thông của bộ khuếch đại Raman",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao trong tính toán Performance Budget, biên độ EOL (End of Life) thường thấp hơn BOL?",
+    "option1": "Vì thiết bị mới chạy yếu hơn",
+    "option2": "Để dự phòng cho suy hao do lão hóa và các mối hàn sửa chữa trong 25 năm",
+    "option3": "Do dòng điện nuôi giảm theo thời gian",
+    "option4": "Vì khách hàng dùng ít dung lượng hơn",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao việc khảo sát từ tính (Magnetometer) lại cực kỳ quan trọng khi lắp đặt cáp gần các khu vực khai thác dầu khí?",
+    "option1": "Để đo độ mặn của nước biển",
+    "option2": "Để xác định chính xác tọa độ các đường ống ngầm và cáp hiện hữu nhằm tránh va chạm hoặc gây nhiễu điện từ",
+    "option3": "Nhằm tìm kiếm các mỏ khoáng sản quý hiếm",
+    "option4": "Để kiểm tra lớp vỏ giáp của cáp sau khi rải",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao việc quản lý \"Slack\" (độ chùng) lại quan trọng khi đặt cáp qua vùng núi dưới biển?",
+    "option1": "Để tiết kiệm chiều dài cáp",
+    "option2": "Để tránh cáp bị căng gây đứt hoặc bị treo (suspension) giữa các đỉnh núi",
+    "option3": "Để tăng tốc độ tàu đặt cáp",
+    "option4": "Để cáp không bị trôi",
+    "correct": 2
+  },
+  {
+    "Question": "Tại sao việc tăng diện tích hiệu dụng (Aeff) của sợi quang lên 150 μm2 không còn là lựa chọn tối ưu về chi phí cho các hệ thống SDM hiện nay?",
+    "option1": "Do sợi 150 μm2 gây ra độ trễ (latency) cao hơn",
+    "option2": "Vì sợi quang Aeff lớn có chi phí sản xuất cao và nhạy cảm với uốn cong, trong khi SDM ưu tiên sợi 80/110 μm2 để tăng số cặp sợi",
+    "option3": "Vì công nghệ Coherent có thể bù đắp hoàn toàn mọi hiệu ứng phi tuyến",
+    "option4": "Do đường kính cáp biển không cho phép chứa nhiều sợi to",
+    "correct": 2
+  },
+  {
+    "Question": "Tán sắc bậc cao (Dispersion Slope) ảnh hưởng như thế nào đến hệ thống WDM?",
+    "option1": "Không có ảnh hưởng",
+    "option2": "Làm cho các bước sóng khác nhau có tốc độ tán sắc khác nhau",
+    "option3": "Làm tăng suy hao quang",
+    "option4": "Làm thay đổi màu sắc ánh sáng",
+    "correct": 2
+  },
+  {
+    "Question": "Tham số \"OSNR\" tỷ lệ nghịch với yếu tố nào sau đây?",
+    "option1": "Công suất tín hiệu phát",
+    "option2": "Số lượng bộ lặp (Repeaters) trên tuyến",
+    "option3": "Diện tích hiệu dụng của sợi quang",
+    "option4": "Chất lượng của SLTE",
+    "correct": 2
+  },
+  {
+    "Question": "Thành phần \"Backhaul\" nằm ở đoạn nào của mạng?",
+    "option1": "Dưới đáy biển sâu",
+    "option2": "Giữa Trạm cập bờ và PoP nội địa",
+    "option3": "Giữa hố ga BMH và biển",
+    "option4": "Trong bộ lặp Repeater",
+    "correct": 2
+  },
+  {
+    "Question": "Thành phần nào sau đây thuộc \"Khối ướt\" (Wet Plant)?,",
+    "option1": "Cáp, bộ lặp và bộ chia nhánh",
+    "option2": "SLTE và PFE",
+    "option3": "Hệ thống quản lý mạng (NMS)",
+    "option4": "Trạm cập bờ (CLS)",
+    "correct": 1
+  },
+  {
+    "Question": "Thành phần OADM trong bộ chia nhánh có tác dụng gì?",
+    "option1": "Cấp nguồn điện",
+    "option2": "Tách và nhập các bước sóng quang",
+    "option3": "Hàn nối sợi quang",
+    "option4": "Giám sát lỗi nguồn",
+    "correct": 2
+  },
+  {
+    "Question": "Theo thống kê, nguyên nhân chính gây đứt cáp biển là gì?",
+    "option1": "Động vật biển cắn",
+    "option2": "Hoạt động của con người (mỏ neo, đánh cá)",
+    "option3": "Lỗi linh kiện thiết bị",
+    "option4": "Nhiệt độ nước biển",
+    "correct": 2
+  },
+  {
+    "Question": "Thiết bị \"Grapnel\" được tàu sửa cáp sử dụng để làm gì?",
+    "option1": "Chôn cáp xuống cát",
+    "option2": "Móc và kéo cáp từ đáy biển",
+    "option3": "Cắt cáp tự động",
+    "option4": "Đo thông số quang",
+    "correct": 2
+  },
+  {
+    "Question": "Thiết bị LME dùng để làm gì?,",
+    "option1": "Cung cấp nguồn nuôi",
+    "option2": "Giám sát tình trạng bộ lặp và sợi quang",
+    "option3": "Kết nối luồng dịch vụ",
+    "option4": "Đo độ sâu đáy biển",
+    "correct": 2
+  },
+  {
+    "Question": "Thiết bị nào đóng vai trò giao tiếp giữa mạng biển và mạng đất liền?",
+    "option1": "PFE",
+    "option2": "SLTE",
+    "option3": "Repeater",
+    "option4": "BU",
+    "correct": 2
+  },
+  {
+    "Question": "Thiết bị nào dùng để bù đắp suy hao quang trên các tuyến cáp rất dài?",
+    "option1": "Bộ lặp (Repeater)",
+    "option2": "Bộ chia nhánh",
+    "option3": "Cáp LW",
+    "option4": "SLTE",
+    "correct": 1
+  },
+  {
+    "Question": "Thiết bị nào dùng để chia một tuyến cáp chính thành các nhánh cập bờ khác nhau?,",
+    "option1": "Bộ chia nhánh (Branching Unit - BU)",
+    "option2": "Bộ lặp (Repeater)",
+    "option3": "Bộ cân bằng (Equalizer)",
+    "option4": "Hố ga sát biển (BMH)",
+    "correct": 1
+  },
+  {
+    "Question": "Thiết bị PFE có chức năng chính là gì?,",
+    "option1": "Khuếch đại tín hiệu quang",
+    "option2": "Cung cấp nguồn điện cho các bộ lặp dưới biển",
+    "option3": "Quản lý băng thông hệ thống",
+    "option4": "Kết nối cáp biển với cáp đất liền",
+    "correct": 2
+  },
+  {
+    "Question": "Thiết bị SLTE là viết tắt của cụm từ nào?,",
+    "option1": "Submarine Line Termination Equipment",
+    "option2": "System Line Terminal Engine",
+    "option3": "Submarine Link Test Equipment",
+    "option4": "Subsea Line Termination Element",
+    "correct": 1
+  },
+  {
+    "Question": "Thiết kế \"Dry OADM\" khác gì so với OADM dưới biển?",
+    "option1": "Không sử dụng sợi quang",
+    "option2": "Việc tách/nhập kênh được thực hiện bằng thiết bị đặt tại trạm cập bờ trung gian",
+    "option3": "Chỉ sử dụng cho cáp đất liền",
+    "option4": "Không cần nguồn nuôi điện",
+    "correct": 2
+  },
+  {
+    "Question": "Thời gian trung bình để sửa chữa một lỗi cáp trên biển (không tính di chuyển) thường là bao nhiêu?",
+    "option1": "4 giờ",
+    "option2": "1 - 2 ngày",
+    "option3": "1 tháng",
+    "option4": "10 phút",
+    "correct": 2
+  },
+  {
+    "Question": "Thuật ngữ \"Dark Fiber\" trong cáp biển nghĩa là gì?",
+    "option1": "Sợi quang bị đứt",
+    "option2": "Sợi quang chưa được trang bị thiết bị đầu cuối",
+    "option3": "Sợi quang có suy hao lớn",
+    "option4": "Sợi quang chuyên dùng cho quản lý",
+    "correct": 2
+  },
+  {
+    "Question": "Thuật ngữ \"Latency\" trong cáp biển đo lường yếu tố gì?",
+    "option1": "Công suất tiêu thụ",
+    "option2": "Độ trễ truyền dẫn tín hiệu",
+    "option3": "Độ sâu của cáp",
+    "option4": "Tỷ lệ lỗi bit",
+    "correct": 2
+  },
+  {
+    "Question": "Thuật ngữ \"RFS\" trong dự án cáp biển có nghĩa là gì?",
+    "option1": "Sẵn sàng cho khảo sát (Ready For Survey)",
+    "option2": "Sẵn sàng cung cấp dịch vụ (Ready For Service)",
+    "option3": "Sẵn sàng cho lắp đặt (Ready For Shipping)",
+    "option4": "Sẵn sàng cho sửa chữa (Ready For Sale)",
+    "correct": 2
+  },
+  {
+    "Question": "Tổ chức ICPC có vai trò gì?",
+    "option1": "Sản xuất cáp",
+    "option2": "Bảo vệ cáp biển quốc tế",
+    "option3": "Cung cấp tài chính",
+    "option4": "Đào tạo kỹ sư",
+    "correct": 2
+  },
+  {
+    "Question": "Tốc độ phổ biến của một bước sóng trong các hệ thống hiện đại là bao nhiêu?,",
+    "option1": "10G",
+    "option2": "100G hoặc cao hơn",
+    "option3": "2.5G",
+    "option4": "1G",
+    "correct": 2
+  },
+  {
+    "Question": "Trong chế độ \"Trunk-to-Branch Powering\", BU thực hiện nhiệm vụ gì để cô lập một nhánh bị lỗi điện mà không ảnh hưởng đến Trunk chính?",
+    "option1": "BU tự động ngắt toàn bộ nguồn điện của hệ thống",
+    "option2": "BU thực hiện chuyển mạch nguồn (Power Switching) để nối đất cho nhánh lỗi và khép mạch dòng điện Trunk qua biển",
+    "option3": "BU chuyển sang sử dụng pin dự phòng đặt dưới biển",
+    "option4": "BU tăng điện áp tại điểm lỗi để đốt cháy điểm ngắn mạch",
+    "correct": 2
+  },
+  {
+    "Question": "Trong công thức Shannon, nếu tăng băng thông (B) gấp đôi thì dung lượng (C) thay đổi thế nào?",
+    "option1": "Tăng gấp bốn",
+    "option2": "Tăng gấp đôi (tuyến tính với B)",
+    "option3": "Không đổi",
+    "option4": "Tăng theo hàm mũ",
+    "correct": 2
+  },
+  {
+    "Question": "Trong hệ thống SDM, mục tiêu chính là tăng yếu tố nào?,",
+    "option1": "Công suất nguồn điện",
+    "option2": "Số lượng cặp sợi quang (Fiber Pairs)",
+    "option3": "Tốc độ trên một bước sóng",
+    "option4": "Khoảng cách bộ lặp",
+    "correct": 2
+  },
+  {
+    "Question": "Trong hệ thống SDM, việc sử dụng \"Fibre Sharing\" trên trạm nhánh (Shared Branch) có nhược điểm gì so với \"Bi-directional Branch\"?",
+    "option1": "Làm tăng suy hao quang tại bộ chia nhánh",
+    "option2": "Giảm khả năng tái sử dụng dung lượng (Capacity Re-use) và làm tăng độ phức tạp trong quản lý phổ quang",
+    "option3": "Không cho phép sử dụng thiết bị ROADM",
+    "option4": "Làm tăng chi phí lắp đặt cáp nhánh",
+    "correct": 2
+  },
+  {
+    "Question": "Trong kịch bản \"Double Shunt Fault\" (hai lỗi ngắn mạch đồng thời), tại sao hệ thống cáp biển thường bị gián đoạn dịch vụ hoàn toàn?",
+    "option1": "Do áp suất nước biển tại hai điểm lỗi triệt tiêu lẫn nhau",
+    "option2": "Vì các bộ lặp nằm giữa hai điểm lỗi sẽ không nhận được dòng điện nuôi từ bất kỳ trạm PFE nào",
+    "option3": "Vì dòng điện sẽ tập trung hết vào điểm lỗi gần trạm nhất",
+    "option4": "Do hệ thống bảo vệ quá dòng của PFE tự động ngắt nguồn",
+    "correct": 2
+  },
+  {
+    "Question": "Trong mạng Ring \"Double Cable\", khi một cáp bị đứt, lưu lượng được bảo vệ như thế nào?",
+    "option1": "Hệ thống tự động ngừng hoạt động",
+    "option2": "Chuyển sang sợi quang bảo vệ (Protection path) trên tuyến cáp còn lại",
+    "option3": "Tín hiệu được truyền qua vệ tinh",
+    "option4": "Phải chờ sửa xong mới hoạt động lại",
+    "correct": 2
+  },
+  {
+    "Question": "Trong mô hình \"Open Cable\", nhà cung cấp khối ướt (Wet Plant) cung cấp những gì?",
+    "option1": "Chỉ sợi quang",
+    "option2": "Wet Plant, PFE và hệ thống quản lý",
+    "option3": "Thiết bị SLTE",
+    "option4": "Trạm cập bờ",
+    "correct": 2
+  },
+  {
+    "Question": "Trong sơ đồ cấp nguồn \"Trunk-to-Branch\", dòng điện đi như thế nào?",
+    "option1": "Chỉ đi vòng quanh trạm Trunk",
+    "option2": "Từ trạm Trunk đi qua BU đến trạm nhánh (Branch)",
+    "option3": "Đi trực tiếp qua biển không qua BU",
+    "option4": "Chỉ cấp nguồn cho bộ lặp đầu tiên",
+    "correct": 2
+  },
+  {
+    "Question": "Trong thiết kế \"Enhanced BU\" (eBU), cơ chế \"Optical Bypass Switching\" giải quyết bài toán vận hành nào khi landing một nhánh mới?",
+    "option1": "Giúp chuyển đổi tín hiệu quang sang điện từ xa",
+    "option2": "Cho phép kết nối nhánh mới mà không gây mất tín hiệu (hitless) trên các luồng lưu lượng chính (express traffic)",
+    "option3": "Tự động điều chỉnh Gain tilt cho nhánh mới",
+    "option4": "Giảm thiểu rủi ro lỗi Shunt fault tại BU",
+    "correct": 2
+  },
+  {
+    "Question": "Trong thiết kế \"Shared Mesh Restoration\", tài nguyên dự phòng được quản lý như thế nào?",
+    "option1": "Mỗi tuyến có một cáp dự phòng riêng",
+    "option2": "Nhiều tuyến làm việc chia sẻ chung một nhóm tài nguyên dự phòng",
+    "option3": "Không có tài nguyên dự phòng",
+    "option4": "Chỉ dùng cho trạm nhánh",
+    "correct": 2
+  },
+  {
+    "Question": "Trong tính toán Open Cable Budget, thông số SNR_GAWBS đại diện cho hiện tượng gì và ảnh hưởng thế nào đến hệ thống?",
+    "option1": "Nhiễu do sự lão hóa của linh kiện quang theo thời gian",
+    "option2": "Nhiễu tán xạ Brillouin do sóng âm hướng dẫn (GAWBS) gây ra nhiễu pha pha tạp vào tín hiệu",
+    "option3": "Nhiễu do các mối hàn sửa chữa trên biển",
+    "option4": "Nhiễu do sự phản xạ tại các đầu nối ODF",
+    "correct": 2
+  },
+  {
+    "Question": "Tuổi thọ thiết kế thông thường của một hệ thống cáp biển là bao nhiêu năm?,",
+    "option1": "10 năm",
+    "option2": "15 năm",
+    "option3": "25 năm",
+    "option4": "50 năm",
+    "correct": 3
+  },
+  {
+    "Question": "Ưu điểm chính của cấu trúc mạng Ring là gì?",
+    "option1": "Chi phí thấp",
+    "option2": "Khả năng tự khôi phục khi đứt cáp",
+    "option3": "Dễ lắp đặt nhất",
+    "option4": "Không cần bộ chia nhánh",
+    "correct": 2
+  },
+  {
+    "Question": "Ưu điểm cốt lõi của kiến trúc \"Double Cable Ring\" so với \"Single Cable Ring\" trong mạng cáp biển là gì?",
+    "option1": "Chi phí lắp đặt thấp hơn 50%",
+    "option2": "Khả năng duy trì kết nối khi đứt cáp đồng thời tại hai vị trí khác nhau trên hai tuyến khác nhau",
+    "option3": "Không cần sử dụng bộ chia nhánh BU",
+    "option4": "Cho phép sử dụng các SLTE đời cũ hơn",
+    "correct": 2
+  },
+  {
+    "Question": "Ưu điểm của việc sử dụng thiết bị ROADM tại trạm cập bờ thay vì OADM cố định?",
+    "option1": "Giá thành rẻ hơn",
+    "option2": "Cho phép thay đổi cấu hình tách/nhập kênh từ xa bằng phần mềm",
+    "option3": "Không cần dùng nguồn điện",
+    "option4": "Chống được đứt cáp",
+    "correct": 2
+  },
+  {
+    "Question": "Vai trò của \"Idler channels\" trong hệ thống cáp biển là gì?",
+    "option1": "Dùng để truyền dữ liệu dự phòng",
+    "option2": "Lấp đầy phổ quang để duy trì tổng công suất ổn định cho bộ lặp",
+    "option3": "Dùng để giám sát môi trường biển",
+    "option4": "Là các kênh bị lỗi",
+    "correct": 2
+  },
+  {
+    "Question": "Vai trò của \"Submarine Line Idler Channel\" (SLIC) là gì?",
+    "option1": "Truyền tin nhắn thoại",
+    "option2": "Giữ ổn định công suất đầu ra của bộ khuếch đại khi chưa có lưu lượng khách hàng",
+    "option3": "Dùng để hack hệ thống",
+    "option4": "Đo độ sâu của bùn",
+    "correct": 2
+  },
+  {
+    "Question": "Vai trò thực sự của \"Tilt Equalization\" (Cân bằng độ nghiêng phổ) trong một tuyến cáp biển dài 10.000km là gì?",
+    "option1": "Để giảm suy hao của sợi quang ở vùng bước sóng 1550nm",
+    "option2": "Để bù đắp sự tích lũy Gain Tilt của bộ khuếch đại EDFA, đảm bảo OSNR đồng đều giữa các kênh xanh và đỏ",
+    "option3": "Để tăng tốc độ truyền dẫn của các kênh ở giữa phổ",
+    "option4": "Nhằm loại bỏ hoàn toàn tán sắc màu (CD)",
+    "correct": 2
+  },
+  {
+    "Question": "Văn bản \"RPL\" (Route Position List) chứa thông tin gì?",
+    "option1": "Danh sách thiết bị đầu cuối",
+    "option2": "Danh sách nhân sự trên tàu",
+    "option3": "Danh sách các tọa độ vị trí tuyến cáp",
+    "option4": "Danh sách các loại thuế phí",
+    "correct": 3
+  },
+  {
+    "Question": "Việc sử dụng \"Pump Sharing\" trong các bộ lặp SDM giúp cải thiện độ tin cậy (Reliability) của hệ thống như thế nào?",
+    "option1": "Giúp giảm nhiệt độ hoạt động của bộ khuếch đại",
+    "option2": "Phân phối công suất từ nhiều Laser bơm đến nhiều cặp sợi, đảm bảo nếu một bơm lỗi, các sợi vẫn nhận được một phần năng lượng",
+    "option3": "Cho phép tắt bớt bơm khi lưu lượng thấp để tiết kiệm điện",
+    "option4": "Tự động cân bằng gain giữa các sợi quang khác nhau",
+    "correct": 2
+  }
+]
