@@ -5,10 +5,7 @@
     "option2": "Phải được kết nối với hệ thống giám sát tập trung",
     "option3": "Phải có giấy phép vận hành của Trưởng ca",
     "option4": "Phải hoàn thành cấu hình trên NOCPro",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, sự cố đặc biệt ảnh hưởng an ninh quốc phòng phải báo cho ai?",
@@ -16,10 +13,7 @@
     "option2": "Lãnh đạo đơn vị BO",
     "option3": "Trưởng ca QLSC ngay lập tức",
     "option4": "Kỹ sư FO trực ca",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, sự kiện mạng lõi bất thường chưa rõ mức độ ảnh hưởng xử lý thế nào?",
@@ -27,10 +21,7 @@
     "option2": "Điều hành như một sự cố nghiêm trọng",
     "option3": "Chỉ theo dõi, không cần tạo Ticket",
     "option4": "Báo cáo định kỳ trong ca",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, đơn vị nào là đầu mối duy nhất cấu hình luật sinh/hủy cảnh báo?",
@@ -38,10 +29,7 @@
     "option2": "Đơn vị KSVHKT",
     "option3": "Đơn vị FO",
     "option4": "Đơn vị FE",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, đơn vị nào chịu trách nhiệm rà soát, bổ sung hoặc loại bỏ cảnh báo?",
@@ -49,10 +37,7 @@
     "option2": "Đơn vị BO",
     "option3": "Đơn vị IM",
     "option4": "Phòng KSVHKT",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, cảnh báo rác trên mạng lõi sẽ được chuyển đi đâu?",
@@ -60,10 +45,7 @@
     "option2": "Chuyển sang màn hình FO theo dõi",
     "option3": "Chuyển sang màn hình BO tối ưu/xử lý",
     "option4": "Chuyển cho đơn vị FT",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, nguyên tắc đẩy cảnh báo mạng truy nhập lên FO là gì?",
@@ -71,10 +53,7 @@
     "option2": "Chỉ đẩy cảnh báo chắc chắn cần xử lý",
     "option3": "Chỉ đẩy cảnh báo từ Vendor lớn",
     "option4": "Đẩy theo yêu cầu đơn vị tỉnh",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, khi thấy bất cập cảnh báo, FO yêu cầu BO đánh giá trong bao lâu?",
@@ -82,10 +61,7 @@
     "option2": "Trong vòng 1 ngày kể từ khi phát hiện",
     "option3": "Trong vòng 2 ngày làm việc",
     "option4": "Ngay lập tức",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, thời gian tối đa để BO đánh giá bất cập theo yêu cầu của FO?",
@@ -93,10 +69,7 @@
     "option2": "2 ngày làm việc",
     "option3": "3 ngày làm việc",
     "option4": "7 ngày",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, FO làm gì với cảnh báo chắc chắn ảnh hưởng đến dịch vụ?",
@@ -104,10 +77,7 @@
     "option2": "Tạo Ticket ngay và leo thang",
     "option3": "Theo dõi trong 30 phút",
     "option4": "Báo cáo vào cuối ca",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, cảnh báo không cần xử lý được chuyển sang offline trong bao lâu?",
@@ -115,10 +85,7 @@
     "option2": "48 giờ",
     "option3": "72 giờ",
     "option4": "7 ngày",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, thời gian tối đa để BO xử lý cảnh báo trên màn hình offline?",
@@ -126,32 +93,23 @@
     "option2": "3 ngày",
     "option3": "5 ngày",
     "option4": "7 ngày",
-    "correct": 4,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "4"
   },
   {
-    "Question": "Trong quy trình Quản lý sự kiện, đơn vị nào đề xuất sinh \"cảnh báo vấn đề\" từ cảnh báo nháy?",
+    "Question": "Trong quy trình Quản lý sự kiện, đơn vị nào đề xuất sinh \"\"cảnh báo vấn đề\"\" từ cảnh báo nháy?",
     "option1": "Đơn vị BO",
     "option2": "Đơn vị FO",
     "option3": "Trưởng ca QLSC",
     "option4": "Đơn vị FE",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình Quản lý sự kiện, Ticket từ \"cảnh báo vấn đề\" được đóng khi nào?",
+    "Question": "Trong quy trình Quản lý sự kiện, Ticket từ \"\"cảnh báo vấn đề\"\" được đóng khi nào?",
     "option1": "Khi cảnh báo biến mất",
     "option2": "Khi hết ca trực",
     "option3": "Khi xử lý triệt để và đóng bằng tay",
     "option4": "Khi BO xác nhận đã nhận",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, Đơn vị thực hiện CR phải thông báo nội dung gì cho FO?",
@@ -159,10 +117,7 @@
     "option2": "Node mạng và mức độ ảnh hưởng",
     "option3": "KPI dự kiến ảnh hưởng",
     "option4": "Tất cả phương án trên",
-    "correct": 4,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "4"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, sau CR vẫn còn cảnh báo tồn trên màn hình, FO làm gì?",
@@ -170,10 +125,7 @@
     "option2": "Chờ đơn vị CR tự xóa",
     "option3": "Hành động như phát sinh lỗi/sự cố",
     "option4": "Chuyển sang màn hình offline",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, nội dung nào KHÔNG thuộc phạm vi bàn giao ca của FO?",
@@ -181,10 +133,7 @@
     "option2": "Sự cố nổi bật trong ca",
     "option3": "Tình trạng Ticket tồn",
     "option4": "Danh sách nhân sự đối tác",
-    "correct": 4,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "4"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, FO thực hiện cấu hình thay đổi liên quan đến cảnh báo trên NOCPro theo yêu cầu của BO trong bao lâu?",
@@ -192,10 +141,7 @@
     "option2": "Trong 1 ngày kể từ khi nhận yêu cầu",
     "option3": "Trong 2 ngày làm việc",
     "option4": "Theo định kỳ hàng tuần",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, phòng nào quản trị phần mềm giám sát và GNOC?",
@@ -203,10 +149,7 @@
     "option2": "Phòng KSVHKT",
     "option3": "Phòng FO",
     "option4": "Phòng Cơ điện",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý sự kiện, phòng nào quản trị các phần mềm hỗ trợ tỉnh?",
@@ -214,76 +157,55 @@
     "option2": "Phòng KSVHKT",
     "option3": "Phòng BO",
     "option4": "Trung tâm VHKT tỉnh",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình Quản lý sự cố, viết tắt \"SDM\" có nghĩa là gì?",
+    "Question": "Trong quy trình Quản lý sự cố, viết tắt \"\"SDM\"\" có nghĩa là gì?",
     "option1": "Service Delivery Manager",
     "option2": "Service Data Management",
     "option3": "System Design Manager",
     "option4": "Security Delivery",
-    "correct": 1,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "1"
   },
   {
-    "Question": "Trong quy trình Quản lý sự cố, Quy trình con \"Quản lý cung cấp dịch vụ\" có bao nhiêu bước?",
+    "Question": "Trong quy trình Quản lý sự cố, Quy trình con \"\"Quản lý cung cấp dịch vụ\"\" có bao nhiêu bước?",
     "option1": "22 bước",
     "option2": "12 bước",
     "option3": "10 bước",
     "option4": "25 bước",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
-    "Question": "Trong quy trình Quản lý sự cố, ai là người thực thi chính trong quy trình con \"Xử lý sự cố lớp FO\"?",
+    "Question": "Trong quy trình Quản lý sự cố, ai là người thực thi chính trong quy trình con \"\"Xử lý sự cố lớp FO\"\"?",
     "option1": "Kỹ sư BO",
     "option2": "Kỹ sư FO",
     "option3": "Nhân sự FT",
     "option4": "SDM",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình Quản lý sự cố, viết tắt \"FT\" có nghĩa là gì?",
+    "Question": "Trong quy trình Quản lý sự cố, viết tắt \"\"FT\"\" có nghĩa là gì?",
     "option1": "Field Technician (Nhân sự hiện trường)",
     "option2": "Fast Transfer",
     "option3": "Fix Ticket",
     "option4": "Final Test",
-    "correct": 1,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "1"
   },
   {
-    "Question": "Trong quy trình Quản lý sự cố, viết tắt \"CR\" có nghĩa là gì?",
+    "Question": "Trong quy trình Quản lý sự cố, viết tắt \"\"CR\"\" có nghĩa là gì?",
     "option1": "Check Request",
     "option2": "Change Request",
     "option3": "Control Request",
     "option4": "Correct Report",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình Quản lý sự cố, Quy trình con \"Xử lý sự cố lớp BO\" gồm có bao nhiêu bước?",
+    "Question": "Trong quy trình Quản lý sự cố, Quy trình con \"\"Xử lý sự cố lớp BO\"\" gồm có bao nhiêu bước?",
     "option1": "30 bước",
     "option2": "22 bước",
     "option3": "25 bước",
     "option4": "12 bước",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý sự cố, một trong những đầu ra của quy trình quản lý sự cố là gì?",
@@ -291,21 +213,15 @@
     "option2": "Ticket xử lý vấn đề",
     "option3": "Thông tin cấu hình",
     "option4": "Tài liệu Vendor",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình Quản lý sự cố, trách nhiệm của kỹ sư FO trong bước \"Đánh giá lại mức độ của ticket\" là gì?",
+    "Question": "Trong quy trình Quản lý sự cố, trách nhiệm của kỹ sư FO trong bước \"\"Đánh giá lại mức độ của ticket\"\" là gì?",
     "option1": "Tự ý thay đổi mức độ",
     "option2": "Kiểm tra thông tin/phần mềm để đánh giá lại mức ưu tiên",
     "option3": "Chuyển ngay cho BO",
     "option4": "Đóng ticket ngay",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự cố, khi kỹ sư FO phát hiện ticket bị trùng lặp, hành động cần làm là gì?",
@@ -313,10 +229,7 @@
     "option2": "Cập nhật thông tin bổ sung cho ticket gốc và đóng ticket mới",
     "option3": "Chuyển cho BO",
     "option4": "Giữ cả hai để xử lý",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự cố, Kỹ sư FO thực hiện chuyển mức sự cố cho BO khi nào?",
@@ -324,32 +237,23 @@
     "option2": "Xác định sự cố ngoài khả năng xử lý của FO",
     "option3": "Khi khách hàng yêu cầu",
     "option4": "Sau khi xử lý xong",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình Quản lý sự cố, trong bước \"Kiểm tra hiện trạng sự cố\", nếu sự cố đã tự khôi phục, FO làm gì?",
+    "Question": "Trong quy trình Quản lý sự cố, trong bước \"\"Kiểm tra hiện trạng sự cố\"\", nếu sự cố đã tự khôi phục, FO làm gì?",
     "option1": "Xóa ticket",
     "option2": "Hoàn thành ticket và cập nhật thông tin",
     "option3": "Vẫn chuyển cho BO",
     "option4": "Để ticket tự đóng",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình Quản lý sự cố, Quy trình con \"Quản lý sự cố\" của nhóm QLSC tập trung vào việc gì?",
+    "Question": "Trong quy trình Quản lý sự cố, Quy trình con \"\"Quản lý sự cố\"\" của nhóm QLSC tập trung vào việc gì?",
     "option1": "Cài đặt thiết bị",
     "option2": "Kiểm soát sự cố nghiêm trọng, báo cáo, leo thang",
     "option3": "Viết mã nguồn",
     "option4": "Thay vật tư hiện trường",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự cố, khi sự cố được khắc phục, FO làm gì với các thao tác xử lý không thành công trước đó?",
@@ -357,10 +261,7 @@
     "option2": "Tạo CR để rollback về trạng thái ban đầu",
     "option3": "Xóa log",
     "option4": "Báo cáo khách hàng",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý sự cố, trong quy trình quản lý sự cố, khi nào cần thực hiện tạo WO cho FT?",
@@ -368,21 +269,15 @@
     "option2": "Cần lấy thêm thông tin tại site để phân tích",
     "option3": "QLSC yêu cầu",
     "option4": "FO không có máy tính",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình Quản lý sự cố, ai là người chịu trách nhiệm chính khi cần \"Thiết lập kết nối thoại hội nghị\" để điều hành xử lý sự cố?",
+    "Question": "Trong quy trình Quản lý sự cố, ai là người chịu trách nhiệm chính khi cần \"\"Thiết lập kết nối thoại hội nghị\"\" để điều hành xử lý sự cố?",
     "option1": "Nhóm QLSC",
     "option2": "Kỹ sư BO",
     "option3": "Kỹ sư FO",
     "option4": "SDM",
-    "correct": 1,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "1"
   },
   {
     "Question": "Trong quy trình Quản lý sự cố, theo quy định leo thanh xử lý sự cố, nếu FO chưa xác định được phương án xử lý sau bao lâu thì phải chuyển ticket cho BO?",
@@ -390,10 +285,7 @@
     "option2": "Quá 1/2 thời gian ticket",
     "option3": "Quá 2 giờ",
     "option4": "Ngay khi nhận",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, đơn vị tạo CR căn cứ vào các yêu cầu (WO/SR) từ module nào trên phần mềm GNOC?",
@@ -401,10 +293,7 @@
     "option2": "Quản lý công việc/dịch vụ",
     "option3": "Quản lý tài sản",
     "option4": "Quản lý rủi ro",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, các kế hoạch triển khai nâng cấp, phát triển mới, thu hồi phải liên kết với phần mềm nào?",
@@ -412,10 +301,7 @@
     "option2": "RDM/OD",
     "option3": "DCIM/NIMS",
     "option4": "SAP/VIPA",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, căn cứ nào được dùng để tạo CR cho các xử lý lỗi đơn lẻ, rủi ro trên GNOC?",
@@ -423,10 +309,7 @@
     "option2": "MR",
     "option3": "TT/PT/RM",
     "option4": "RDM/OD",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, đối với các tác động phối hợp với đối tác, hồ sơ CR cần đính kèm gì?",
@@ -434,10 +317,7 @@
     "option2": "Biên bản nghiệm thu",
     "option3": "Kịch bản test",
     "option4": "Hình ảnh hiện trường",
-    "correct": 1,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "1"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, trường hợp đầu việc chưa được định nghĩa trên phần mềm, đơn vị phải báo cáo ai?",
@@ -445,10 +325,7 @@
     "option2": "Trưởng ca QLSC",
     "option3": "Quản lý tác động (QLTĐ)",
     "option4": "Hội đồng ECAB",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, để tạo CR theo quy trình đặc biệt cho trường hợp ngoại lệ, cần sự đồng ý của ai?",
@@ -456,10 +333,7 @@
     "option2": "Giám đốc Trung tâm",
     "option3": "Kỹ sư FO",
     "option4": "Kỹ sư BO",
-    "correct": 1,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "1"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, khi tạo CR quy trình đặc biệt, thông tin nào bắt buộc phải cập nhật vào worklog?",
@@ -467,43 +341,31 @@
     "option2": "Lý do tạo quy trình đặc biệt",
     "option3": "Chi phí thực hiện",
     "option4": "Thời gian rollback",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình Quản lý thay đổi, yêu cầu \"5W1H\" trong tạo CR, chữ \"How\" đại diện cho nội dung nào?",
+    "Question": "Trong quy trình Quản lý thay đổi, yêu cầu \"\"5W1H\"\" trong tạo CR, chữ \"\"How\"\" đại diện cho nội dung nào?",
     "option1": "Thời gian tác động",
     "option2": "Đơn vị thực thi",
     "option3": "Kịch bản tác động (MOP)",
     "option4": "Node mạng tác động",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
-    "Question": "Trong quy trình Quản lý thay đổi, trong yêu cầu tạo CR, \"Where\" có nghĩa là gì?",
+    "Question": "Trong quy trình Quản lý thay đổi, trong yêu cầu tạo CR, \"\"Where\"\" có nghĩa là gì?",
     "option1": "Đầy đủ node mạng tác động",
     "option2": "Đơn vị thực thi",
     "option3": "Vị trí địa lý trạm",
     "option4": "Căn cứ tạo CR",
-    "correct": 1,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "1"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, tên CR được đặt theo công thức nào sau đây?",
     "option1": "[Nội dung] + [Phạm vi]",
     "option2": "[Căn cứ] + [Nội dung]",
-    "option3": "[Công cụ] + \"Nội dung\" + \"Phạm vi\" + \"Căn cứ",
+    "option3": "[Công cụ] + \"\"Nội dung\"\" + \"\"Phạm vi\"\" + \"\"Căn cứ\"\"",
     "option4": "[Đơn vị] + [Công việc]",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, thông tin về khách hàng doanh nghiệp VIP bị ảnh hưởng phải ghi ở đâu?",
@@ -511,10 +373,7 @@
     "option2": "Phần mô tả tóm tắt",
     "option3": "Mục Who",
     "option4": "Kịch bản MOP",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, nếu CR ảnh hưởng đến dịch vụ, thông tin nào KHÔNG bắt buộc ghi chi tiết?",
@@ -522,10 +381,7 @@
     "option2": "Số lượng khách hàng",
     "option3": "Thời gian ảnh hưởng",
     "option4": "Tên kỹ sư trực ca FO",
-    "correct": 4,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "4"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, KPI ảnh hưởng trong CR được mô tả qua các thông số nào?",
@@ -533,10 +389,7 @@
     "option2": "Số lượng thuê bao",
     "option3": "Thời gian suy giảm",
     "option4": "Tất cả các phương án trên",
-    "correct": 4,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "4"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, nếu CR ảnh hưởng đến phương án ứng cứu thông tin (PA UCTT), đơn vị phải làm gì?",
@@ -544,10 +397,7 @@
     "option2": "Tạo WO cập nhật PA UCTT",
     "option3": "Báo cáo miệng cho QLSC",
     "option4": "Không cần làm gì",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, khi chưa có kịch bản chuẩn cho nội dung tác động, đơn vị phải báo cáo ai?",
@@ -555,21 +405,15 @@
     "option2": "BGĐ đơn vị chủ trì xây dựng kịch bản chuẩn",
     "option3": "Trưởng phòng FO",
     "option4": "Kỹ sư BO",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình Quản lý thay đổi, CR có nguy cơ ảnh hưởng đến việc \"sizing\" hệ thống cần sự đồng ý của ai?",
+    "Question": "Trong quy trình Quản lý thay đổi, CR có nguy cơ ảnh hưởng đến việc \"\"sizing\"\" hệ thống cần sự đồng ý của ai?",
     "option1": "Trưởng phòng BO",
     "option2": "Giám đốc Trung tâm",
     "option3": "PTGĐ chuyên trách",
     "option4": "Hội đồng CAB",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, hồ sơ CR upcode, nâng cấp phần mềm bắt buộc phải có biên bản nào?",
@@ -577,10 +421,7 @@
     "option2": "Biên bản test nghiệm thu code",
     "option3": "Biên bản họp đơn vị",
     "option4": "Biên bản sự cố",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, CR nâng cấp database phải bao gồm đánh giá ảnh hưởng đến yếu tố nào?",
@@ -588,10 +429,7 @@
     "option2": "Màu sắc giao diện",
     "option3": "Lương nhân viên",
     "option4": "Danh sách trực ca",
-    "correct": 1,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "1"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, các CR bật nguồn thiết bị phải đính kèm thông tin xác nhận đã được cập nhật lên phần mềm nào?",
@@ -599,10 +437,7 @@
     "option2": "VIPA/VMSA",
     "option3": "DCIM/NIMS",
     "option4": "RDM/OD",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình Quản lý thay đổi, đối với CR cắt cáp truyền dẫn, thông tin nào là bắt buộc?",
@@ -610,10 +445,7 @@
     "option2": "Thông tin tuyến cáp/đoạn cáp tác động",
     "option3": "Hãng sản xuất cáp",
     "option4": "Độ sâu chôn cáp",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình RF - Quy trình Quản lý Danh mục Dịch vụ có mã là?",
@@ -621,65 +453,47 @@
     "option2": "QT.VTNet.QLDV.03",
     "option3": "QT.VTNet.VHKT.25",
     "option4": "KQT.CNVTQĐ",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình RF - \"DIA\" trong thuật ngữ viết tắt có nghĩa là gì?",
+    "Question": "Trong quy trình RF - \"\"DIA\"\" trong thuật ngữ viết tắt có nghĩa là gì?",
     "option1": "Truy cập Internet trực tiếp",
     "option2": "Đường dây kỹ thuật số",
     "option3": "Dữ liệu tích hợp",
     "option4": "Phân tích thông tin",
-    "correct": 1,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "1"
   },
   {
-    "Question": "Trong quy trình RF - \"FTTH\" viết tắt của cụm từ nào?",
+    "Question": "Trong quy trình RF - \"\"FTTH\"\" viết tắt của cụm từ nào?",
     "option1": "Cáp đồng đến nhà",
     "option2": "Cáp quang đến hộ gia đình",
     "option3": "Điện thoại bàn",
     "option4": "Mạng không dây",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình RF - \"VPN\" viết tắt của?",
+    "Question": "Trong quy trình RF - \"\"VPN\"\" viết tắt của?",
     "option1": "Máy chủ ảo",
     "option2": "Mạng riêng ảo",
     "option3": "Cổng thanh toán",
     "option4": "Bộ định tuyến",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình RF - \"VoIP\" là gì?",
+    "Question": "Trong quy trình RF - \"\"VoIP\"\" là gì?",
     "option1": "Nhắn tin miễn phí",
     "option2": "Thoại qua giao thức IP",
     "option3": "Truyền hình cáp",
     "option4": "Lưu trữ đám mây",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình RF - Trong ma trận RASCI, \"C\" có nghĩa là?",
+    "Question": "Trong quy trình RF - Trong ma trận RASCI, \"\"C\"\" có nghĩa là?",
     "option1": "Hỗ trợ",
     "option2": "Tư vấn",
     "option3": "Chịu trách nhiệm",
     "option4": "Thực thi",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình RF - Ai thực hiện rà soát việc thực thi SR (RF 1.17)?",
@@ -687,10 +501,7 @@
     "option2": "Quản lý SRF (hoặc người đại diện)",
     "option3": "BO",
     "option4": "SDM",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình RF - Trong quy trình SR, khuyến nghị cải thiện dịch vụ sau rà soát được gửi đến đâu?",
@@ -698,21 +509,15 @@
     "option2": "Chuẩn bị trong mô hình SR và gửi kỹ sư phân tích",
     "option3": "SDM",
     "option4": "Nhóm CPM",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình RF - Trong quy trình SR, trạng thái \"Execution Halted\" xảy ra khi nào?",
+    "Question": "Trong quy trình RF - Trong quy trình SR, trạng thái \"\"Execution Halted\"\" xảy ra khi nào?",
     "option1": "SR thành công",
     "option2": "CR không được phê duyệt hoặc thực hiện thất bại",
     "option3": "Khi bắt đầu lập lịch",
     "option4": "Khi SR thực hiện không thành công",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình RF - Để đảm bảo tính khả thi, Kỹ sư SRF kiểm tra yếu tố nào?",
@@ -720,10 +525,7 @@
     "option2": "Kỹ thuật sẵn có, độ khả dụng mạng, thời gian SLA",
     "option3": "Trạng thái của hệ thống",
     "option4": "Trạng thái của phần mềm",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình RF - Mô hình SR định nghĩa dòng chảy công việc gồm?",
@@ -731,21 +533,15 @@
     "option2": "Bước lập lịch, thực hiện và giao nhiệm vụ",
     "option3": "DT",
     "option4": "CR",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình RF - \"Flavor\" trong SC dùng để chỉ điều gì?",
+    "Question": "Trong quy trình RF - \"\"Flavor\"\" trong SC dùng để chỉ điều gì?",
     "option1": "Danh sách WO",
     "option2": "Các gói sản phẩm hoặc phạm vi dịch vụ",
     "option3": "Danh sách SR",
     "option4": "Danh sách CR",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình RF - Một SR chuẩn được tạo ra dựa trên cơ sở nào?",
@@ -753,10 +549,7 @@
     "option2": "Service Catalogue (SC)",
     "option3": "Yêu cầu của người thực hiện SR",
     "option4": "Yêu cầu của BO",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình RF - WO (Work Order) là gì?",
@@ -764,43 +557,31 @@
     "option2": "Yêu cầu hỗ trợ thực hiện hoạt động cụ thể nội bộ",
     "option3": "Yêu cầu thay đổi",
     "option4": "Yêu cầu bảo dưỡng",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình RF - Nhiệm vụ \"Kiểm tra WO/CR\" do ai Chịu trách nhiệm (A)?",
+    "Question": "Trong quy trình RF - Nhiệm vụ \"\"Kiểm tra WO/CR\"\" do ai Chịu trách nhiệm (A)?",
     "option1": "Kỹ sư QHTK",
     "option2": "Kỹ sư SRF",
     "option3": "SDM",
     "option4": "Triển khai",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình RF - Ai chịu trách nhiệm \"Định nghĩa Bản mô tả dịch vụ\" (A/R)?",
+    "Question": "Trong quy trình RF - Ai chịu trách nhiệm \"\"Định nghĩa Bản mô tả dịch vụ\"\" (A/R)?",
     "option1": "Kỹ sư SRF",
     "option2": "SDM",
     "option3": "Triển khai",
     "option4": "Hỗ trợ dịch vụ",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình RF - Vai trò \"S\" trong ma trận RASCI là?",
+    "Question": "Trong quy trình RF - Vai trò \"\"S\"\" trong ma trận RASCI là?",
     "option1": "Chịu trách nhiệm",
     "option2": "Hỗ trợ",
     "option3": "Tư vấn",
     "option4": "Thực thi",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình RF - Quy trình xử lý yêu cầu thông tin nhằm mục đích gì?",
@@ -808,21 +589,15 @@
     "option2": "Thu thập thông tin hạ tầng hỗ trợ quy hoạch mạng",
     "option3": "Kiểm tra trạng thái trước khi thực hiện",
     "option4": "Kiểm tra giám sát hệ thống",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình RF - \"WLA\" trong quy trình có nghĩa là gì?",
+    "Question": "Trong quy trình RF - \"\"WLA\"\" trong quy trình có nghĩa là gì?",
     "option1": "Thỏa thuận mức lương",
     "option2": "Thỏa thuận mức công việc",
     "option3": "Quy trình làm việc",
     "option4": "Thỏa thuận thời gian thực hiện",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình RF - Trong quy trình SR, ai là người hỗ trợ thiết kế giải pháp và thiết kế chi tiết?",
@@ -830,10 +605,7 @@
     "option2": "Kỹ sư SRF",
     "option3": "FT",
     "option4": "BO",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình RF - Nhóm triển khai chuyển SR đến SRF khi nào?",
@@ -841,10 +613,7 @@
     "option2": "Có yêu cầu cấu hình trên hạ tầng hiện có",
     "option3": "Khi cần thay đổi tham số",
     "option4": "Khi cần hỗ trợ thực hiện theo yêu cầu",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Khi một sự cố mới phát sinh ảnh hưởng dịch vụ trong lúc bảo dưỡng, FT phải làm gì?",
@@ -852,10 +621,7 @@
     "option2": "Không thực hiện",
     "option3": "Báo cáo ngay cho FO",
     "option4": "Chờ xong WO cũ",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Mục đích chính của quy trình Khai thác hiện trường là gì?",
@@ -863,10 +629,7 @@
     "option2": "Đảm bảo hạ tầng hoạt động sẵn sàng và tin cậy",
     "option3": "Giảm số lượng FT",
     "option4": "Mở rộng vùng phủ sóng",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Đâu là một sự kiện bắt đầu của quy trình FO?",
@@ -874,10 +637,7 @@
     "option2": "Yêu cầu vào/ra nhà trạm",
     "option3": "Trạm đã được vệ sinh",
     "option4": "KPI đã đạt target",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Đầu vào của quy trình Khai thác Hiện trường bao gồm những gì?",
@@ -885,43 +645,31 @@
     "option2": "CSDL nhà trạm",
     "option3": "Thỏa thuận OLA/WLA",
     "option4": "Tất cả các đáp án trên",
-    "correct": 4,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "4"
   },
   {
-    "Question": "Trong quy trình khai thác hiện trường - \"BO\" trong bảng viết tắt là vai trò gì?",
+    "Question": "Trong quy trình khai thác hiện trường - \"\"BO\"\" trong bảng viết tắt là vai trò gì?",
     "option1": "Ban Giám đốc",
     "option2": "Kỹ sư quản lý, vận hành hệ thống",
     "option3": "Kỹ thuật viên hiện trường",
     "option4": "Đối tác thứ ba",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
-    "Question": "Trong quy trình khai thác hiện trường - \"SAF\" viết tắt của thuật ngữ nào?",
+    "Question": "Trong quy trình khai thác hiện trường - \"\"SAF\"\" viết tắt của thuật ngữ nào?",
     "option1": "Safety First",
     "option2": "Service Area",
     "option3": "Service Affecting",
     "option4": "Site Access Form",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
-    "Question": "Trong quy trình khai thác hiện trường - \"MOP\" có nghĩa là gì?",
+    "Question": "Trong quy trình khai thác hiện trường - \"\"MOP\"\" có nghĩa là gì?",
     "option1": "Một loại thiết bị",
     "option2": "Phương pháp thực hiện các thủ tục",
     "option3": "Biên bản bàn giao",
     "option4": "Kế hoạch bảo dưỡng",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - CD thực hiện bước FO 1.04 khi nào?",
@@ -929,10 +677,7 @@
     "option2": "Khi WO chưa được tạo trên GNOC",
     "option3": "Khi WO đã hoàn thành",
     "option4": "Khi vật tư thiếu",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Thông tin nào KHÔNG thuộc tiêu chuẩn đầu vào tối thiểu của WO?",
@@ -940,10 +685,7 @@
     "option2": "Mức độ ưu tiên",
     "option3": "Tên Giám đốc đơn vị",
     "option4": "Mô tả nhiệm vụ",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - FO 1.05 dùng để xác nhận thông tin gì?",
@@ -951,10 +693,7 @@
     "option2": "Xác nhận giám sát đối tác vào trạm",
     "option3": "Xác nhận lương FT",
     "option4": "Xác nhận lỗi hệ thống",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Khi thông tin vào/ra trạm của đối tác bị thiếu, CD làm gì (FO 1.06)?",
@@ -962,10 +701,7 @@
     "option2": "Yêu cầu bổ sung thông tin",
     "option3": "Chấp nhận yêu cầu",
     "option4": "Giao cho CD thẩm định",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Bước FO 1.08 lựa chọn FT dựa trên yêu cầu kỹ thuật và yếu tố nào khác?",
@@ -973,21 +709,15 @@
     "option2": "Có nhiều kinh nghiệm",
     "option3": "Có ít kinh nghiệm",
     "option4": "",
-    "correct": 1,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "1"
   },
   {
-    "Question": "Trong quy trình khai thác hiện trường - Theo ma trận trách nhiệm, vai trò của CD đối với việc \"Tiếp nhận và phân bổ WO\" là gì?",
+    "Question": "Trong quy trình khai thác hiện trường - Theo ma trận trách nhiệm, vai trò của CD đối với việc \"\"Tiếp nhận và phân bổ WO\"\" là gì?",
     "option1": "Support",
     "option2": "Informed",
     "option3": "Accountable/Responsible",
     "option4": "Consulted",
-    "correct": 3,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "3"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Nếu WO không được chuẩn bị xong thủ tục truy nhập trong thời gian WLA, CD làm gì (FO 1.14)?",
@@ -995,10 +725,7 @@
     "option2": "Khởi tạo yêu cầu chuyển mức (Escalation)",
     "option3": "Bỏ qua bước này",
     "option4": "Tự ý mở cửa nhà trạm",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Trong bước FO 1.16, FT kiểm tra chi tiết thông tin WO qua công cụ nào?",
@@ -1006,10 +733,7 @@
     "option2": "VSMART",
     "option3": "Điện thoại cá nhân",
     "option4": "Giấy giao việc",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Một lý do FT có thể từ chối WO là gì?",
@@ -1017,10 +741,7 @@
     "option2": "Trạm ở xa",
     "option3": "Thời tiết xấu",
     "option4": "Không thích đối tác",
-    "correct": 1,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "1"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Sau khi FT từ chối WO, CD có thể lựa chọn hành động nào?",
@@ -1028,10 +749,7 @@
     "option2": "Bổ sung thông tin/thiết bị",
     "option3": "Hủy WO nếu không chính xác",
     "option4": "Tất cả các đáp án trên",
-    "correct": 4,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "4"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Bước FO 1.25 yêu cầu FT tuân theo điều gì sau khi tiếp nhận WO?",
@@ -1039,10 +757,7 @@
     "option2": "Hướng dẫn truy cập trạm",
     "option3": "Hướng dẫn đóng WO",
     "option4": "Hướng dẫn từ chối WO",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong quy trình khai thác hiện trường - Thông tin nào FT cần thông báo cho FO trước khi tác động trạm?",
@@ -1050,21 +765,15 @@
     "option2": "Mã ticket/WO",
     "option3": "Thời gian hoàn thành dự kiến",
     "option4": "Tất cả các đáp án trên",
-    "correct": 4,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "4"
   },
   {
-    "Question": "Trong quy trình khai thác hiện trường - \"TT\" trong bảng viết tắt có nghĩa là gì?",
+    "Question": "Trong quy trình khai thác hiện trường - \"\"TT\"\" trong bảng viết tắt có nghĩa là gì?",
     "option1": "Tổng trạm",
     "option2": "Yêu cầu xử lý sự cố (Trouble Ticket)",
     "option3": "Thông tin trạm",
     "option4": "Tuyến truyền dẫn",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong Quy trình Quản lý rủi ro - Với rủi ro mức High/Very High, đơn vị xử lý rủi ro phải báo cáo xin ý kiến RAB khi nào?",
@@ -1072,10 +781,7 @@
     "option2": "Bước RM 2.9 (Đóng)",
     "option3": "Chỉ khi quá hạn",
     "option4": "Khi kết thúc năm",
-    "correct": 1,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "1"
   },
   {
     "Question": "Trong Quy trình Quản lý rủi ro - Tần suất tổ chức họp RAB nếu phát sinh rủi ro mức High/Very High là?",
@@ -1083,10 +789,7 @@
     "option2": "Tối thiểu 01 tuần/lần; tối đa 02 tuần/lần",
     "option3": "Hàng tháng",
     "option4": "Hàng quý",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   },
   {
     "Question": "Trong Quy trình Quản lý rủi ro - Báo cáo BTGĐ TCT về hoạt động họp RAB với tần suất tối thiểu bao lâu?",
@@ -1094,64 +797,6 @@
     "option2": "01 tháng/lần",
     "option3": "06 tháng/lần",
     "option4": "01 năm/lần",
-    "correct": 2,
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Question": "",
-    "option1": "",
-    "option2": "",
-    "option3": "",
-    "option4": "",
-    "correct": "",
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Question": "",
-    "option1": "",
-    "option2": "",
-    "option3": "",
-    "option4": "",
-    "correct": "",
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Question": "",
-    "option1": "",
-    "option2": "",
-    "option3": "",
-    "option4": "",
-    "correct": "",
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Question": "",
-    "option1": "",
-    "option2": "",
-    "option3": "",
-    "option4": "",
-    "correct": "",
-    "": "",
-    "__1": "",
-    "__2": ""
-  },
-  {
-    "Question": "",
-    "option1": "",
-    "option2": "",
-    "option3": "",
-    "option4": "",
-    "correct": "",
-    "": "",
-    "__1": "",
-    "__2": ""
+    "correct": "2"
   }
 ]
