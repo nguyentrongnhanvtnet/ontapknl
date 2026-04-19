@@ -75,7 +75,7 @@ function loadTest(file) {
 function showQuestion() {
   answered = false;
   selected = [];
-  time = 15;
+  time = 30;
 
   clearInterval(timer);
 
