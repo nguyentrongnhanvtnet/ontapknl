@@ -7,7 +7,7 @@ let currentTest = "";
 let selected = [];
 let answered = false;
 
-let time = 15;
+let time = 30;
 let timer;
 
 /* =======================
@@ -170,7 +170,7 @@ function checkAnswer() {
 
   document.getElementById("answers").appendChild(result);
 
-  setTimeout(nextQuestion, 1200);
+  setTimeout(nextQuestion, 4000);
 }
 
 /* =======================
