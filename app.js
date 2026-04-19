@@ -170,7 +170,7 @@ function checkAnswer() {
 
   document.getElementById("answers").appendChild(result);
 
-  setTimeout(nextQuestion, 4000);
+  setTimeout(nextQuestion, 3000);
 }
 
 /* =======================
