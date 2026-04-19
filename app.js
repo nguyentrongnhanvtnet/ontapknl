@@ -64,7 +64,7 @@ function loadTest(file) {
     .then(r => r.json())
     .then(data => {
       questions = data || [];
-      questions.sort(() => Math.random() - 0.5);
+      shuffleArray(questions);
       showQuestion();
     });
 }
